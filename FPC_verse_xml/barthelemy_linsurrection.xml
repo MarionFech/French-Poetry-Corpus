@@ -1,0 +1,888 @@
+<RECUEIL ponct = "TRUE">
+<TITRE_RECUEIL> 
+L'Insurrection
+</TITRE_RECUEIL>
+<AUTEUR> 
+Auguste Barthélémy
+</AUTEUR>
+<DATE>
+1830
+</DATE>
+
+<POEME>
+<TITRE>
+I Et Nunc Intellegite Reges.
+PSALM.
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>On dit que, du Conseil où la nuit les rassemble,</VERS>
+<VERS>D'épouvantables bruits vers nous ont circulé</VERS>
+<VERS>Que les vagues échos de leurs murs ont parlé</VERS>
+<VERS>D'édit, de coup d'État ou de lit de justice</VERS>
+<VERS>Silence! que jamais ce mot ne retentisse;</VERS>
+<VERS>Le pacte enfreint par eux serait rompu par NOUS;</VERS>
+<VERS>Lassé depuis long-temps de marcher à genoux,</VERS>
+<VERS>Au seul geste, au signal d'un ordre illégitime,</VERS>
+<VERS>Ce peuple bondirait d'un élan unanime,</VERS>
+<VERS>Et, brisant sans retour d'arbitraires pouvoirs,</VERS>
+<VERS>Il se rappellerait le plus saint des devoirs.</VERS>
+</STROPHE>
+</CORPS>
+<AUTRE>
+(1830, Satire politique, par BARTHÉLÉMY.)
+</AUTRE>
+</POEME>
+
+
+
+
+ 
+
+<POEME prose = "true">
+<TITRE>
+II AUX PARISIENS
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>Vous êtes grands comme vos pères!</VERS>
+<VERS>Un Roi licencia votre Garde civique, votre Garde civique a licencié ce Roi.</VERS>
+<VERS>Les étrangers qui vous ont vus, vous ont proclamés le peuple sans rival.</VERS>
+<VERS>Vous vous êtes montrés intelligens dans l'insurrection, sublimes dans la grande </VERS>
+<VERS>bataille, généreux et calmes après le triomphe.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ouvriers, artisans, industriels, boutiquiers, vieillards, enfans, écoliers, </VERS>
+<VERS>écrivains, riches, indigens, jeunes gens de mode et de plaisir, peuple </VERS>
+<VERS>miraculeux, la France restaurée n'aura pas assez de couronnes pour vous.</VERS>
+<VERS>Deux Marseillais vous offrent ce poème:</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>BARTHÉLÉMY ET MÉRY.</VERS>
+<VERS>Paris, le 30 juillet 1830, l'an premier de notre Restauration.</VERS>
+</STROPHE>
+</CORPS>
+</POEME>
+
+
+
+
+
+<POEME prose = "true">
+<TITRE>
+III PREFACE
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>Enfin la liberté a eu sa restauration; trois jours ont fait le prodige, trois </VERS>
+<VERS>jours qui résument l'histoire glorieuse de notre premier affranchissement de 89. </VERS>
+<VERS>Que de 14 juillet, que de 10 août sous le même soleil! Disons-le hardiment, </VERS>
+<VERS>puisque les vieillards eux-mêmes le disent, les Parisiens se sont montrés plus </VERS>
+<VERS>héroïques qu'en aucune autre époque de leur grande histoire. Cette fois les </VERS>
+<VERS>moyens de résistance et d'oppression étaient effrayans; ce n'étaient plus </VERS>
+<VERS>Lambesc et ses Allemands, Delaunay et sa garnison d'invalides, des gardes-</VERS>
+<VERS>françaises dévouées à la nation, mais bien une garde prétorienne formée des </VERS>
+<VERS>premiers soldats du monde, des gendarmes aguerris qui jouent avec les émeutes, </VERS>
+<VERS>des Suisses payés pour tuer et gagnant loyalement le salaire du maître, une </VERS>
+<VERS>artillerie formidable, un déploiement de forces enfin, une science de tactique </VERS>
+<VERS>urbaine qui d'ordinaire démoralise une population et la refoule dans ses foyers. </VERS>
+<VERS>Tout cela s'est évanoui; Paris a chassé les Prétoriens, comme un lion les </VERS>
+<VERS>insectes, en secouant sa crinière. Gloire éternelle à Paris!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ils avaient bien jugé cette héroïque ville, ces grands citoyens qui changèrent </VERS>
+<VERS>les salons du NATIONAL en nouveau Jeu de Paume, devant les Cours prévôtales et </VERS>
+<VERS>l'échafaud; leur audace civique détermina l'insurrection armée. Quand le jour </VERS>
+<VERS>des couronnes sera venu, les noms de ces Spartiates seront gravés sur des tables </VERS>
+<VERS>d'airain: Lacédémone n'a rien de plus beau. Pour nous, nous voulons que cette </VERS>
+<VERS>glorieuse liste décore le frontispice de cet ouvrage, afin que grâces à elle nos </VERS>
+<VERS>vers aient quelque avenir.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>MM. Ader. Année. Avenel. Barbaroux. Bande (J.-J.) Bert. Billiard (A.) Bohain </VERS>
+<VERS>(Victor). Buzoni. Carrel. Cauchois-Lemaire. Chalas. Chambolle. Châtelain. Coste </VERS>
+<VERS>(Jacques). Dejean (B.) Dubochet. Dumoulin (Evariste). Dupont (J.-F.) Dussard. </VERS>
+<VERS>Fabre (Auguste). Fazy. Gauja. Guyet. Guizard (De). Haussman. Jussieu (Alexis </VERS>
+<VERS>de). Lapelouze (V. de). Larreguy (F.) Leroux. Levasseur, Mignet. Moussette. </VERS>
+<VERS>Peysse. Pillet (Léon). Flagniol. Remuzat (Ch. de). Rolle. Roqueplan (Nestor). </VERS>
+<VERS>Sarrans, jeune. Senty. Stapfer (Albert.) Thiers. Vaillant.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>L'admiration n'a plus de mots quand on songe que tous ces écrivains, en sortant </VERS>
+<VERS>de leur jeu de paume, ont pris les armes, harangué les citoyens, organise la </VERS>
+<VERS>sainte insurrection; que plusieurs d'entre eux ont scellé de leur sang leur </VERS>
+<VERS>Epitre au Peuple; que Gauja, l'un des signataires, a passé sous les fusillades </VERS>
+<VERS>du Carrousel pour planter aux Tuileries notre drapeau national.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Témoins de tant de merveilles, nous avons écrit ce Poème sous leur inspiration; </VERS>
+<VERS>la poésie est bien froide après un drame si vivant, et les émotions sont encore </VERS>
+<VERS>trop ferventes, pour qu'on puisse donner à une oeuvre de littérature ces soins </VERS>
+<VERS>minutieux, enfans des calmes loisirs. N'importe; nous nous sommes hâtés de </VERS>
+<VERS>payer notre dette à la circonstance, nous qui avons si souvent chanté le drapeau </VERS>
+<VERS>tricolore devant Villèle et Polignac. D'ailleurs, nous osons dire à la critique </VERS>
+<VERS>qu'un bon nombre de ces vers n'ont pas été composes dans le silence du cabinet, </VERS>
+<VERS>et que nous avions cessé d'être poètes pour nous faire citoyens.</VERS>
+</STROPHE>
+</CORPS>
+</POEME>
+
+
+
+<POEME>
+<TITRE>
+IV L'INSURRECTION
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>Voici ce que disaient les courtisans prophètes (1):</VERS>
+<VERS>Voyez-la cette ville idolâtre des fêtes!</VERS>
+<VERS>Comme aux jours décrépits de l'empire romain,</VERS>
+<VERS>Dans l'ivresse du cirque où son peuple se plonge,</VERS>
+<VERS>Chaque soir de la vie il s'endort, sans qu'il songe</VERS>
+<VERS>A ses maîtres du lendemain.</VERS>
+<VERS> </VERS>
+<VERS>Va, sylphe de boudoir, cueille ton jour frivole;</VERS>
+<VERS>Au magique Opéra que ton phaéton vole</VERS>
+<VERS>La nuit, portant au front deux phares allumés;</VERS>
+<VERS>Vante-nous tes Delta que la cascade arrose,</VERS>
+<VERS>Tes femmes de satin , de chair blanche et de rose,</VERS>
+<VERS>Et tes citoyens parfumés.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Sybarite enfantin qu'un pli de rose blesse,</VERS>
+<VERS>Peigne ce poil menteur que la mode te laisse,</VERS>
+<VERS>Exhume de l'histoire un costume élégant;</VERS>
+<VERS>Quitte chez Tortoni ta coupe toujours pleine,</VERS>
+<VERS>Suis la femme qui passe avec sa douce haleine</VERS>
+<VERS>Sur le frais boulevard de Gand.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Quel désastre public, si l'or de la Tamise</VERS>
+<VERS>Enlève Malibran qui leur était promise,</VERS>
+<VERS>Si l'antique Feydeau s'écroule démoli!</VERS>
+<VERS>Quel deuil, si la Sontag annonce un léger rhume,</VERS>
+<VERS>Ou si, quand le jour tombe, une orageuse brume</VERS>
+<VERS>Eteint les feux de Tivoli!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ainsi passe leur vie. En ses faubourgs de fange,</VERS>
+<VERS>Que fait la plèbe vile? Elle boit, elle mange,</VERS>
+<VERS>Elle exhale sa joie en de cyniques chants;</VERS>
+<VERS>Ignobles journaliers, grotesques politiques,</VERS>
+<VERS>On les verrait encor trembler dans leurs boutiques,</VERS>
+<VERS>Devant le prévôt des marchands.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ils ne sont plus ces jours où la voix de Camille</VERS>
+<VERS>Convoquait la révolte au pied de la Bastille;</VERS>
+<VERS>La rouille a dévoré la pique des faubourgs.</VERS>
+<VERS>Tout ce peuple abruti dort d'un pénible somme,</VERS>
+<VERS>Et Santerre aujourd'hui, sans éveiller un homme,</VERS>
+<VERS>Passerait avec ses tambours.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Et seul qu'aurait-il fait, ce peuple sans audace?</VERS>
+<VERS>Eût-il senti le feu dans ses veines de glace,</VERS>
+<VERS>Sans l'ardent Marseillais, sans le hardi Breton?</VERS>
+<VERS>Il fallait, pour mouvoir cette inerte machine,</VERS>
+<VERS>Pour trouver un écho dans leur faible poitrine,</VERS>
+<VERS>Les mugissemens de Danton.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Osons tout, oublions leurs vieux anniversaires,</VERS>
+<VERS>Déployons sans effroi des rigueurs nécessaires;</VERS>
+<VERS>Le trône de Saint-Cloud est bâti sur le roc;</VERS>
+<VERS>D'un brumaire royal faisons naître l'aurore:</VERS>
+<VERS>Si Paris se levait, il tomberait encore</VERS>
+<VERS>Devant le canon de Saint-Roch.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Eh bien! ils ont osé.... Quand la lave voisine</VERS>
+<VERS>S'apprête à secouer Agrigente et Messine,</VERS>
+<VERS>D'abord la grande mer, par élans convulsifs,</VERS>
+<VERS>Pousse des flots huileux sur l'algue des récifs;</VERS>
+<VERS>De bleuâtres vapeurs s'échappent du cratère,</VERS>
+<VERS>Et la voix d'un volcan gronde au loin sous la terre.</VERS>
+<VERS>Tel bouillonnait Paris: les travaux et les jeux</VERS>
+<VERS>S'arrêtent tout-à-coup sur un sol orageux (2);</VERS>
+<VERS>Un peuple entier, sorti des foyers domestiques,</VERS>
+<VERS>Ondule en murmurant sur les places publiques,</VERS>
+<VERS>Et partout, sur les murs du splendide bazar,</VERS>
+<VERS>De prophétiques mots menacent Balthazar.</VERS>
+<VERS>Un cri tonne: à ce cri, les fleurs de lis brisées</VERS>
+<VERS>Tombent en provoquant de sinistres risées (3);</VERS>
+<VERS>Ce vieil écu de France, orgueilleux écriteau,</VERS>
+<VERS>Se disperse en éclats, broyé sous le marteau,</VERS>
+<VERS>Et l'obscur artisan, héroïque Vandale,</VERS>
+<VERS>Arrache à nos palais l'enseigne féodale.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Voyons! qui vengera la sainte royauté?</VERS>
+<VERS>Accourez, professeurs de légitimité!</VERS>
+<VERS>L'heure sonne; au secours des vieilles monarchies!</VERS>
+<VERS>Arborez le panache à vos tètes blanchies;</VERS>
+<VERS>Héroïques Lambesc, superbes Besenval (4),</VERS>
+<VERS>Montrez-vous, c'est l'instant de monter à cheval;</VERS>
+<VERS>Sortez du Carrousel par les hautes arcades,</VERS>
+<VERS>Poussez vos fiers chevaux contre nos barricades,</VERS>
+<VERS>Appelez au soutien du trône et de l'autel</VERS>
+<VERS>Les enfans de Mechtal et de Guillaume Tell.</VERS>
+<VERS>Ils sont venus! voyez leur livrée écarlate;</VERS>
+<VERS>Là, dans leurs pelotons, la fusillade éclate (5);</VERS>
+<VERS>Ici les hauts lanciers, la javeline en main,</VERS>
+<VERS>Sur les groupes massifs labourent un chemin,</VERS>
+<VERS>Et dans les rangs confus surgit auprès du glaive</VERS>
+<VERS>Le chapeau galonné des licteurs de la Grève (6).</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>La mort nous enveloppe, entendez-vous nos cris?</VERS>
+<VERS>Au secours! au secours! défenseurs de Paris!</VERS>
+<VERS>Venez prendre une part dans nos combats épiques;</VERS>
+<VERS>Vous qui sortiez jadis avec cent mille piques,</VERS>
+<VERS>Redoutables faubourgs Saint-Antoine et Marceau,</VERS>
+<VERS>Du vieil Hôtel-de-Ville envahissez l'arceau;</VERS>
+<VERS>Saluez en passant l'ombre de la Bastille,</VERS>
+<VERS>Le canon du dix-août va tonner à la grille,</VERS>
+<VERS>Reprenez les marteaux qui brisent sur les gonds</VERS>
+<VERS>Les lourds battans de bronze où veillent les dragons.</VERS>
+<VERS>Et vous qui prolongez vos lignes parallèles,</VERS>
+<VERS>Saint-Denis, Saint-Martin, grandes cités jumelles,</VERS>
+<VERS>Venez, armez vos bras du fer des ateliers.</VERS>
+<VERS>Tombez de l'Odéon, généreux écoliers,</VERS>
+<VERS>Quittez vos bancs; payez par votre jeune audace</VERS>
+<VERS>La grande inscription qu'aucun maître n'efface (7);</VERS>
+<VERS>Montrez-vous les premiers au front des combattans,</VERS>
+<VERS>Enfans de Guttemberg opprimés si long-temps!</VERS>
+<VERS>Gloire à vous, jeunes gens de plaisirs et de fêtes!</VERS>
+<VERS>Quels bravos sont sortis de nos coeurs de poètes</VERS>
+<VERS>Quand vous avez paru dans le poudreux chemin,</VERS>
+<VERS>Sous les habits du luxe, un fusil à la main!</VERS>
+<VERS>Et vous dont les accens électrisent une âme (8),</VERS>
+<VERS>Un rôle vous est dû dans ce merveilleux drame,</VERS>
+<VERS>Artistes citoyens! Amoncelez ici</VERS>
+<VERS>Les sabres de Corinthe et ceux de Portici;</VERS>
+<VERS>Fouillez, pour soutenir notre lutte civile,</VERS>
+<VERS>Tout, jusqu'à l'arsenal du joyeux Vaudeville.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Paris se lève en bloc! Au signal assassin</VERS>
+<VERS>Tout homme dans son coeur sent vibrer un tocsin;</VERS>
+<VERS>Eternelle infamie au lâche qui y absente!</VERS>
+<VERS>Parmi les cris de mort de la foule croissante,</VERS>
+<VERS>Le bois, le plomb, le fer, les cailloux anguleux</VERS>
+<VERS>Déchirent en sifflant les uniformes bleus (9);</VERS>
+<VERS>Débris dévastateurs, armes de la colère,</VERS>
+<VERS>Qui jaillissent par flots du volcan populaire.</VERS>
+<VERS>O vengeance! déjà sur le pavé glissant</VERS>
+<VERS>Nos ennemis français versent le premier sang;</VERS>
+<VERS>C'est une femme! eh bien! qu'on porte pour enseigne (10)</VERS>
+<VERS>Aux yeux de tout Paris ce cadavre qui saigne;</VERS>
+<VERS>Lentement promené devant le drapeau noir,</VERS>
+<VERS>Qu'il convoque le peuple aux vengeances du soir.</VERS>
+<VERS>Oh! si la sombre nuit, cette fois trop précoce,</VERS>
+<VERS>Ne vient pas dans sa course arrêter le colosse,</VERS>
+<VERS>Son gigantesque pied va broyer dans ses bonds</VERS>
+<VERS>Ces stupides soldats, seul peuple des Bourbons!</VERS>
+<VERS>Ah! sur Paris encor qu'un beau soleil demeure;</VERS>
+<VERS>Qui le croirait! on dit qu'irrités contre l'heure,</VERS>
+<VERS>De nouveaux Josués, au pied de chaque tour (11),</VERS>
+<VERS>Tiraient sur les cadrans pour arrêter le jour.</VERS>
+<VERS>O sublime folie! Hélas! la nuit trop noire</VERS>
+<VERS>Veut jusqu'au lendemain suspendre la victoire;</VERS>
+<VERS>Tout finit: le pouvoir, despote caressant,</VERS>
+<VERS>A ses pâles soutiens compte le prix du sang,</VERS>
+<VERS>Et le peuple, à regret signant un armistice,</VERS>
+<VERS>Demande au lendemain son soleil de justice.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Voilà Paris! quelle lugubre teinte (12)</VERS>
+<VERS>Mêle ses toits avec l'ombre des cieux!</VERS>
+<VERS>Son triste peuple erre silencieux</VERS>
+<VERS>En contemplant la grande ville éteinte.</VERS>
+<VERS>Pourtant c'est l'heure où le gai carrefour</VERS>
+<VERS>Tressaille au chant des joyeuses folies,</VERS>
+<VERS>L'heure où le gaz sous les vitres polies</VERS>
+<VERS>En vifs éclats doit rallumer le jour.</VERS>
+<VERS>Le lourd pavé se replie en barrière,</VERS>
+<VERS>Tout carrefour a sa digue de pierre;</VERS>
+<VERS>Mille Vaubans, ingénieurs nouveaux,</VERS>
+<VERS>Ont enlacé la formidable chaîne,</VERS>
+<VERS>Et la solive aux aiguilles de chêne</VERS>
+<VERS>Qui briseront le poitrail des chevaux.</VERS>
+<VERS>Partout des chars renversés sur la roue,</VERS>
+<VERS>Des tilburys nivelés en créneaux,</VERS>
+<VERS>Des pieux grossiers que le manoeuvre cloue</VERS>
+<VERS>Au vieux blason qui dore des panneaux,</VERS>
+<VERS>Aux troncs épais cimentés par la boue.</VERS>
+<VERS>Au sein des murs Paris a ses remparts;</VERS>
+<VERS>Vastes débris! le souffle populaire</VERS>
+<VERS>A renversé, sur les frais boulevards,</VERS>
+<VERS>Le candélabre au pied triangulaire,</VERS>
+<VERS>Le frais tilleul et l'orme séculaire,</VERS>
+<VERS>Qui, s'enlaçant par leurs rameaux épais,</VERS>
+<VERS>Gissent couchés comme l'épi sur l'aire.</VERS>
+<VERS>C'est une nuit d'insomnie et d'effroi:</VERS>
+<VERS>Oh! qui t'a fait ces longues agonies?</VERS>
+<VERS>Quel dieu cruel te voue aux gémonies?</VERS>
+<VERS>Est-ce un Vandale, ô Paris?... c'est ton Roi!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Maintenant, à minuit, dans ces lugubres scènes,</VERS>
+<VERS>Attendons pour fanal les bombes de Vincennes (13);</VERS>
+<VERS>Ce Roi nous les promet; un Roi tient son serment</VERS>
+<VERS>Il est beau de mourir dans un embrasement.</VERS>
+<VERS>Que la cour de Saint-Cloud monte à son capitale</VERS>
+<VERS>Pour contempler Paris sous l'ardente coupole!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ils ne l'ont pas osé. Respirons: le jour luit,</VERS>
+<VERS>Le soleil semble rire à nos travaux de nuit;</VERS>
+<VERS>Tout le ciel est d'azur. Que la bataille immense</VERS>
+<VERS>Sur les quais, sur les ponts, sur les toits recommence;</VERS>
+<VERS>L'homme que notre espoir embrassait en rêvant,</VERS>
+<VERS>Lafayette a paru comme un drapeau vivant (14);</VERS>
+<VERS>A ce nom répété sous le canon qui tonne,</VERS>
+<VERS>Tout Paris sur les ponts se déroule en colonne;</VERS>
+<VERS>Le quai sonore vibre aux appels du tambour;</VERS>
+<VERS>En face est l'ennemi: dès la pointe du jour,</VERS>
+<VERS>Profanant des beaux-arts la solennelle voûte,</VERS>
+<VERS>Les Suisses ont changé le grand Louvre en redoute;</VERS>
+<VERS>Masqués par la colonne au gigantesque fût,</VERS>
+<VERS>Soldats d'un roi chasseur, ils guettent à l'affût</VERS>
+<VERS>Le vieillard désarmé, qui d'une voix plaintive</VERS>
+<VERS>Demande un fils tombé sur la sanglante rive.</VERS>
+<VERS>Paris devant leurs feux plante ses étendards:</VERS>
+<VERS>Par le pont de Henri, par le palais des arts,</VERS>
+<VERS>Sous l'ardente mitraille il s'élance, et découvre</VERS>
+<VERS>L'ombre de Charles-Neuf sur le balcon du Louvre.</VERS>
+<VERS>Au Louvre, citoyens! À ces cris éclatans (15)</VERS>
+<VERS>Tout le quai resplendit du feu des combattans;</VERS>
+<VERS>Les chefs ont désigné ce mur criblé de balles</VERS>
+<VERS>Ou la victoire étend ses palmes triomphales,</VERS>
+<VERS>Et docile à leur voix le peuple souverain</VERS>
+<VERS>Monte au Louvre en brisant ses deux portes d'airain.</VERS>
+<VERS>Il a fui, l'étranger, et son pas sacrilège</VERS>
+<VERS>Souille le Muséum que Raphaël protège;</VERS>
+<VERS>Auguste Muséum! sur tes larges parois,</VERS>
+<VERS>L'histoire? suspendu les triomphes des rois;</VERS>
+<VERS>Mais jamais Salvator, le peintre des batailles,</VERS>
+<VERS>D'un plus noble tableau n'illustra tes murailles.</VERS>
+<VERS>Quel aspect! sous le ciel de ces rosaces d'or</VERS>
+<VERS>S'ouvre au peuple vainqueur l'immense corridor;</VERS>
+<VERS>Hâtez-vous, citoyens, suivez ces galeries,</VERS>
+<VERS>C'est le pont triomphal qui mène aux Tuileries;</VERS>
+<VERS>Là-bas, au Carrousel, tous vos frères debout</VERS>
+<VERS>Pointent sur le château le canon du dix-août;</VERS>
+<VERS>C'est le Kremlin français, dernière citadelle</VERS>
+<VERS>Où se pavane encor l'étendard infidèle.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>O roi déchu, viens voir combien il est aisé</VERS>
+<VERS>D'entrer en ton château sans l'ordre de Brézé;</VERS>
+<VERS>Chaos miraculeux! sublimes saturnales (16)!</VERS>
+<VERS>Le pauvre des faubourgs commande dans tes salles,</VERS>
+<VERS>Le soldat décoré de poussière et de sang,</VERS>
+<VERS>Sur ton fauteuil royal s'intronise en passant.</VERS>
+<VERS>Honte aux toits de St-Cloud, chasse ton faux prophète;</VERS>
+<VERS>Il ne t'a pas prédit la sanglante comète,</VERS>
+<VERS>Ce drapeau que trente ans la Liberté soutint,</VERS>
+<VERS>Et qui brille au château quand un règne s'éteint.</VERS>
+<VERS>Paris a triomphé! que nos chants retentissent,</VERS>
+<VERS>Que nos coeurs, que nos mains, que nos bouches s'unissent!</VERS>
+<VERS>Quel songe de trois jours! quel peuple! quel réveil!</VERS>
+<VERS>Notre étendard proscrit reluit sous le soleil;</VERS>
+<VERS>Tout un peuple affranchi d'une si longue attente</VERS>
+<VERS>Bat des mains, à l'aspect de l'idole flottante.</VERS>
+<VERS>France! comment trouver un assez digne prix</VERS>
+<VERS>Pour acquitter ta dette aux sauveurs de Paris,</VERS>
+<VERS>Aux jeunes artilleurs transfuges de l'école,</VERS>
+<VERS>Qui sur nos ponts en feu ressuscitaient Arcole;</VERS>
+<VERS>À ces forts citoyens dont l'héroïque main</VERS>
+<VERS>Signa, devant la mort, l'appel du lendemain?</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Oh! que sur les frontons, les lambris et les dalles,</VERS>
+<VERS>Subsiste à tout jamais le stigmate des balles;</VERS>
+<VERS>Que de profanes mains tremblent de rebâtir</VERS>
+<VERS>Le mur qui s'écroula teint du sang d'un martyr;</VERS>
+<VERS>Que les troncs effeuillés des larges promenades,</VERS>
+<VERS>La poudre qui noircit les hautes colonnades,</VERS>
+<VERS>Les pavés protecteurs par le temps affermis,</VERS>
+<VERS>Que tout ait une voix contre nos ennemis!</VERS>
+<VERS>Qu'un monument de deuil et de gloire s'élève</VERS>
+<VERS>Au sol purifié de la hideuse Grève,</VERS>
+<VERS>Au Louvre, aux Innocens, au nouveau Parthénon,</VERS>
+<VERS>Lieux saints qu'ont désolés le fer et le canon (17)!</VERS>
+<VERS>Là, dès le premier jour, sur la tombe grossière,</VERS>
+<VERS>Une pieuse main jette un peu de poussière,</VERS>
+<VERS>Et des femmes en deuil vont prier à genoux</VERS>
+<VERS>Sur leurs fils immolés en combattant pour nous.</VERS>
+<VERS>Oh! sans doute, ce sol de tant de.-pleurs humide,</VERS>
+<VERS>Touche plus qu'un tombeau qui monte en pyramide;</VERS>
+<VERS>Mais ces rubans, ces fleurs, éphémère appareil,</VERS>
+<VERS>Tout va se dessécher sous le premier soleil;</VERS>
+<VERS>Il faut des monumens élargis sur la base,</VERS>
+<VERS>Que l'oeil de l'étranger contemple avec extase,</VERS>
+<VERS>Il faut qu'en traits vengeurs l'historique burin</VERS>
+<VERS>Cisèle un sarcophage aux quatre angles d'airain;</VERS>
+<VERS>Afin que dans mille ans quelque roi s'épouvante</VERS>
+<VERS>S'il voit de son palais cette page vivante,</VERS>
+<VERS>Ce grand jour où Paris, tricolore géant,</VERS>
+<VERS>En passant sur le Louvre, y laissa le néant.</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Quand l'effort d'un grand peuple a détruit un empire,</VERS>
+<VERS>Il faut qu'après la lutte il s'arrête et respire:</VERS>
+<VERS>Dans le calme d'effroi qui succède au canon,</VERS>
+<VERS>S'il entend près de lui retentir un grand nom,</VERS>
+<VERS>Un nom de liberté qui rassure et console,</VERS>
+<VERS>Il fait un piédestal à sa nouvelle idole,</VERS>
+<VERS>Et vers des jours nouveaux pressé de rajeunir,</VERS>
+<VERS>Il lui livre d'espoir son douteux avenir.</VERS>
+<VERS>D'ORLEANS! quand sur nous l'astre des dangers brille,</VERS>
+<VERS>Il est temps de quitter ton sceptre de famille;</VERS>
+<VERS>Viens, de tous les. pouvoirs le faisceau se dissout;</VERS>
+<VERS>Dans les débris royaux ton nom seul est debout;</VERS>
+<VERS>Ceux même qui, depuis le foudroyant Brumaire,</VERS>
+<VERS>Rêvaient la République, enivrante chimère,</VERS>
+<VERS>Assourdis par l'orage après trois jours de deuil,</VERS>
+<VERS>De ton palais désert interrogeaient le seuil.</VERS>
+<VERS>Tu parus: aussitôt éteignant sa colère,</VERS>
+<VERS>Le peuple salua le prince populaire.</VERS>
+<VERS>Il te connaît; ta vie a fait ses entretiens;</VERS>
+<VERS>Nos enfans dans leurs jeux ont tutoyé les tiens,</VERS>
+<VERS>Le peuple est leur menin; sur les bancs des collèges</VERS>
+<VERS>Il voit Chartre et Nemours s'asseoir sans privilèges;</VERS>
+<VERS>Il sait que d'Orléans se mêlant au convoi,</VERS>
+<VERS>Suivit la France en deuil à la tombe de Foy;</VERS>
+<VERS>Que jamais on ne vit se grouper à ta suite</VERS>
+<VERS>L'insidieux manteau d'un confesseur jésuite;</VERS>
+<VERS>Il se souvient surtout, car ces faits éclatans</VERS>
+<VERS>Electrisent son coeur même après quarante ans,</VERS>
+<VERS>Que la liberté sainte, à sa première aurore,</VERS>
+<VERS>Attacha sur ton front un rayon tricolore.</VERS>
+<VERS>Songe que si le peuple aujourd'hui t'a fait Roi,</VERS>
+<VERS>Le laurier de Jemmape a répondu de toi;</VERS>
+<VERS>Qu'il n'a pas reconnu pour signe d'alliance</VERS>
+<VERS>Ton antique lambel sur les trois lis de France;</VERS>
+<VERS>De tous les attributs qui parent ta maison,</VERS>
+<VERS>Ta cocarde à ses yeux est l'unique blason;</VERS>
+<VERS>En voyant sur ton front sa glorieuse marque,</VERS>
+<VERS>Ses cris ont salué le citoyen monarque;</VERS>
+<VERS>Les vainqueurs de Paris, avec cent mille voix,</VERS>
+<VERS>Comme les premiers Francs t'ont mis sur le pavois,</VERS>
+<VERS>Consacrant à jamais leur antique maxime:</VERS>
+<VERS>LE ROI QU'UN PEUPLE NOMME EST LE SEUL LEGITIME.</VERS>
+</STROPHE>
+</CORPS>
+</POEME>
+
+
+
+<POEME>
+<TITRE>
+V LA TRICOLORE
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>Voilà le drapeau tricolore,</VERS>
+<VERS>Glorieux enfans de Paris!</VERS>
+<VERS>Vos bras l'ont reconquis encore,</VERS>
+<VERS>Nous le saluons de nos cris;</VERS>
+<VERS>L'Europe tremble quand il brille</VERS>
+<VERS>Sur le front de nos jeunes rangs,</VERS>
+<VERS>C'est la Méduse des tyrans,</VERS>
+<VERS>C'est le drapeau de la Bastille:</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+
+<VERS>De nos gloires long-temps flétries</VERS>
+<VERS>Déchirons le hideux tableau;</VERS>
+<VERS>La France a pris aux Tuileries</VERS>
+<VERS>Sa revanche de Waterloo;</VERS>
+<VERS>Légions de la vieille armée,</VERS>
+<VERS>Saluez le noble étendard;</VERS>
+<VERS>Il est jeune encor, mais plus tard</VERS>
+<VERS>Il se ternira de fumée:</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ton triomphe, nouvelle Sparte,</VERS>
+<VERS>Sur ton sol restera gravé;</VERS>
+<VERS>Chaque lettre de notre Charte</VERS>
+<VERS>Est écrite sur un pavé:</VERS>
+<VERS>Si, troublant cette grande fête,</VERS>
+<VERS>L'Europe nous jetait un roi,</VERS>
+<VERS>Avec les tables de la loi</VERS>
+<VERS>Que le peuple écrase sa tête.</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>De notre gloire vieil emblème,</VERS>
+<VERS>Sur la colonne il s'est placé,</VERS>
+<VERS>Et des Bourbons le drapeau blême</VERS>
+<VERS>Comme un spectre s'est effacé.</VERS>
+<VERS>Les héros ciselés d'Arcole,</VERS>
+<VERS>La Garde gravée au burin,</VERS>
+<VERS>Suivent la spirale d'airain</VERS>
+<VERS>Pour le revoir sur la coupole.</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+
+<VERS>Il part de la place Vendôme</VERS>
+<VERS>De ce vol qui glaçait les rois;</VERS>
+<VERS>Sur chaque tour, sur chaque dôme,</VERS>
+<VERS>Ses larges plis cachent la croix.</VERS>
+<VERS>Déployons dans Pair notre histoire</VERS>
+<VERS>Aux yeux de nos frères lointains;</VERS>
+<VERS>Ils liront leurs nouveaux destins</VERS>
+<VERS>Sur ce télégraphe de gloire.</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Que notre flotte ramenée,</VERS>
+<VERS>Noyant le signe des trois fleurs,</VERS>
+<VERS>Sur la mer Méditerranée</VERS>
+<VERS>Se pavoise des trois couleurs;</VERS>
+<VERS>Que les peuples semés sur l'onde,</VERS>
+<VERS>Nos frères de tous les climats,</VERS>
+<VERS>En les saluant sur nos mâts,</VERS>
+<VERS>Chantent la liberté du monde.</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>Ce drapeau brille à la fenêtre</VERS>
+<VERS>Du Prince qui veut nous unir;</VERS>
+<VERS>Dans ce palais qui la vit naître</VERS>
+<VERS>La tempête vient de finir.</VERS>
+<VERS>Sous lui, sous sa féconde race,</VERS>
+<VERS>Vivons sans ployer les genoux;</VERS>
+<VERS>Soyons fiers d'avoir parmi nous</VERS>
+<VERS>Un Roi que Lafayette embrasse.</VERS>
+<VERS>Plane sur nos soldats, astre de liberté,</VERS>
+<VERS>Honneur au grand Paris qui t'a ressuscité!</VERS>
+</STROPHE>
+<STROPHE>
+<AUTRE>FIN.</AUTRE>
+</STROPHE>
+</CORPS>
+</POEME>
+
+
+
+
+
+
+<AUTRE>
+VI NOTES.
+1) La France est une nation oublieuse des torts. Qui songe aujourd'hui à remettre 
+en lumière les étranges prophéties, les théories menteuses d'un ministère 
+foudroyé? Chose singulière et
+qu'on ne peut voir qu'à Paris! ces mêmes écrivains royalistes qui
+nous poursuivaient de leurs menaçantes injures, et qui bâtissaient à la royauté 
+bigote un infaillible avenir, ont reparu sur l'horizon
+le lendemain de la bataille , non pas pour nous dire: « Excusez-nous, nous nous 
+sommes trompés, nous reconnaissons que votre poignée de factieux se compose d'un 
+million d'hommes, » mais pour faire de nouvelles prédictions, de nouvelles 
+menaces,
+de nouvelles théories signées des mêmes noms qu'auparavant! Un
+exemple pris entre mille: il est emprunté à une feuille absolutiste
+du 37 juillet.
+
+«  La royauté a parlé, tout va rentrer dans l'ordre. Il n'y aura
+point de résistance, ou sur-le-champ elle sera comprimée et
+punie. On va voir ce que valent, réduits à eux-mêmes, cette
+poignée de factieux qui se disaient les organes et se croyaient
+les maîtres de la France. Les honnêtes gens qui ont pu les
+craindre seront bien honteux de la peur que leur ont inspirée
+de tris ennemis. »
+
+Il semble qu'après avoir écrit de telles phrases, on doit renoncer à tout 
+crédit, briser sa plume, et se cacher de honte; point!
+on rouvre ses bureaux monarchiques où l'on perçoit des abonnemens, et Ton trouve 
+encore des vieillards dupes qui consentent à
+payer par trimestre tous ces prophètes menteurs. Qu'ils s'inclinent tous de 
+respect devant le bon sens de ce peuple qu'ils ont
+tant calomnié! Que s'étaient-ils prédit a eux-mêmes cent fois, le
+cas d'une révolution échéant? la proscription ou l'échafaud. Eh
+bien! ils font eux-mêmes la censure de leurs prophéties, en reprenant leurs 
+sièges de rédaction. Ils le connaissaient donc bien
+ce peuple, ce peuple fort qui protège même ceux qui l'ont insulté
+pendant quinze ans!
+
+2) La révolution de 89 commença chez le marchand de papier Réveillon; celle de 
+1830 a pris naissance au Palais-Royal, devant la boutique de M. le marquis de 
+Chabannes. Ce gentilhomme avait établi le bureau de rédaction de son étrange 
+journal dans la galerie d'Orléans; il y avait foule le 26 au soir, devant son 
+vitrage chargé de quatrains anti-ministériels; les gendarmes tentèrent de 
+dissiper cet attroupement; l'attroupement dissipa les gendarmes. Arriva uns 
+patrouille de la garde; elle se promena muette et riante dans le jardin, au 
+milieu des huées de la foule. Le tambour de retraite battit, on ferma les 
+grilles avant l'heure, mais la fermentation continua sous les galeries; des 
+groupes nombreux se formèrent: les cris à bas les ministres! se firent 
+entendre; un jeune homme monta sur un banc, et cria: Chez Polignac! chez 
+Polignac! A l'instant le Palais-Royal fut évacué. La foule se précipita en 
+l'hôtel du ministre, ses vitres furent cassées devant la sentinelle: c'était la 
+préface du grand ouvrage, le petit prélude d'un grand lendemain.
+
+3) Nous ne nous sommes pas rigoureusement asservis à l'ordre historique des 
+faits, c'est un privilège de poète.
+
+La dévastation des armoiries royales eut lieu le 28; ce tableau fut comme une 
+pièce gaie entre deux tragédies. Il était six heures du matin, le temps était 
+magnifique, toutes les figures riaient; à ce moment du jour où Paris est 
+désert, rien n'était plus curieux que de voir cette ondulation de foule vivante, 
+on aurait dit une fête de l'aurore. Tout-à-coup, dans la rue neuve des Petits-
+Champs, un écusson royal est abattu; ce fut le signal de la destruction; dans 
+les rues Vivienne, Richelieu, Montmartre, les marchands brevetés s'exécutèrent 
+de la meilleure grâce; à chaque chute des fleurs proscrites, le peuple riait et 
+battait des mains; aucune ombre d'opposition ne se manifestait, les agens de la 
+police s'étaient évanouis; les Suisses buvaient dans leurs casernes, les 
+gendarmes se cachaient pour la première fois de leur vagabonde vie; les braves 
+troupes de ligne, postées au corps-de-garde, étaient mornes, leurs chefs 
+soucieux: ils étaient peuple déjà.
+
+4) Les stupides courtisans ne cessaient de rappeler à leur roi ces mémorables 
+charges du prince de Lambesc, qui dissipèrent en 89 le premier attroupement; 
+ils disaient toujours que la première révolution n'aurait pas eu lieu si le roi 
+eut fait marcher sur Paris les vingt mille hommes de Besenval et les dragons de 
+Bouille. Entichés de ces belles idées de stratégie contre-révolutionnaire, MM. 
+Cottu, Madrolle, Coniam accablaient de mémoires un roi peu liseur, pour le 
+forcer à monter à cheval. Le roi ne monta pas à cheval; mais, par un beau 
+dimanche de juillet, il mit l'épée à la main et défila devant un régiment de sa 
+garde. L'explosion de joie royaliste fut accablante pour nous; M. Cottu 
+s'embrasa; de là à son cheval il n'y avait qu'un pas, la monarchie était 
+sauvée, le libéralisme vaincu.
+
+Maintenant qu'ils soient tous sans regrets, non seulement pour les vingt mille 
+hommes de Besenval et les dragons de Bouille, mais encore pour tout autre moyen 
+d'oppression militaire qu'aurait pu employer Charles X. Ils se sont enfin 
+convaincus que tous les dragons du monde, tous les Suisses des treize Cantons 
+trouveraient dans Paris des pavés pour cénotaphes et une terre pour les dévorer.
+
+5) Les Suisses ont fait feu les premiers sur la place du Palais-Royal, c'était 
+dans l'ordre et dans leur métier. Ce fut aussi un bonheur pour nous; il faut 
+avoir vu quelle indignation brûla lesParisiens, quand ils se virent fusiller, 
+dans leur sainte ville, par des esclaves venus du lac Léman. Honneur! honneur! 
+honneur! aujourd'hui et dans les siècles! à cet héroïque officier du 5e, qui 
+le premier oublia de prétendus devoirs à force d'honneur! Que son nom soit 
+gravé sur l'airain, que son épée brisée devienne un monument national!
+
+Ce grand exemple, si généreusement suivi, nous fit notre victoire plus facile, 
+et nous épargna bien du sang.
+
+Nous devons consigner dans ces notes, non pas ce qu'on nom a dit, mais ce que 
+nous avons vu. Ce qui suit est si honorable pour le brave 53e, que nous croyons 
+devoir le rapporter. Qu'on nous pardonne de nous mettre en scène un instant.
+
+Le 28, à trois heures, la tyrannie déploya, sur tous les points, de vigoureuses 
+attaques. Un bataillon de la garde nationale venait de se former comme par 
+enchantement dans la rue Croix-des-Petits-Champs et sur la place des Victoires, 
+la foule était ivre de joie; on croyait tout fini; le bataillon descendit vers 
+la rue Saint-Honoré. Nous étions entrés dans une maison voisine pour prendre 
+quelque repos, et nous nous félicitions des succès des Parisiens, lorsqu'une 
+épouvantable fusillade éclata sur la rue Croix-des-Petits-Champs; aux feux de 
+pelotons savamment nourris, nous présumâmes que c'était un régiment de la garde 
+qui venait de déboucher par la rue Baillif. Nous descendîmes dans la rue 
+Coquillière; la fumée était si épaisse, qu'il était impossible de rien 
+distinguera dix pas. Le feu cessa subitement, et notre coeur fut brisé lorsque 
+nous reconnûmes ces troupes de ligne sur lesquelles nous avions fondé tantôt de 
+si belles espérances. Sur les bancs placés aux deux angles de la rue, des 
+soldats s'étaient assis et ils fumaient tranquillement. Voici quelle était leur 
+conversation:
+
+« Gredin de métier, j'ai envie d'envoyer le fusil au diable.
+
+- Ai-je joué de malheur, moi! on m'avait consigné au quartier ce matin; ils 
+pouvaient bien m'y laisser trois jours encore; ça m'aurait arrangé.
+
+- Ah! ça, ils ont beau dire les autres, on ne peut pas tirer sur les bourgeois 
+comme ça, faut être des sans entrailles.
+
+- Si çà dure, moi je f.... mon camp, je ne me suis pas engagé pour ça. »
+
+Chacun de ces propos si contraires à la discipline était accueilli par les 
+signes affirmatifs des soldats groupés autour des interlocuteurs. Nous nous 
+hasardâmes alors a leur demander pourquoi, avec de tels sentimens, qui 
+paraissaient être aussi ceux de tous leurs camarades, ils avaient consenti 
+tantôt à fusiller les bourgeois? Cette demande fit éclater sur ces m Aies 
+figures des sourires d'une ineffable expression. Un sergent nous dit: « 
+Messieurs, prenez la peine de tourner le coin de la rue et de compter vos morts. 
+»
+
+La rue était pure de sang dans toute sa largeur; ces braves
+gens avaient tiré en l'air.
+
+6) Les gendarmes, lancés le premier jour dans la rue Saint-Honoré, et fort 
+maltraités par les ouvriers imprimeurs, comprirent, avec ce bon sens qui les 
+caractérise, que cette fois il ne s'agissait pas d'une petite émeute badine 
+qu'on apaise avec le poitrail des stupides chevaux: ils n'ont pas tardé de 
+s'éclipser, comme des acteurs engagés pour un rôle, qui ne veulent pas jouer 
+hors de leur emploi. Aujourd'hui, ce n'est pas le peuple, c'est la gendarmerie 
+qui a donné sa démission.
+
+7) Braves étudians des deux écoles, vous ne pouviez manquez cette fête! Ils se 
+sont couverts de gloire à la bataille de la Grève, sur la place du Louvre et le 
+Carrousel; plusieurs sont tombés; leurs extraits mortuaires sont des titres de 
+noblesse pour tous.
+
+La veille, M. Guernon de Ranville essayait de flétrir ces héroïques écoles avec 
+cette ordonnance:
+
+UNIVERSITÉ DE FRANCE.
+
+CONSEIL ROYAL DE L'INSTRUCTION PUBLIQUE.
+
+Le Conseil royal de l'instruction publique, informé que quelques étudians 
+paraissent se disposer à prendre part à des rassemblemens qui peuvent 
+compromettre le bon ordre et la tranquillité publique;
+
+Voulant éviter aux jeunes gens les suites fâcheuses qui résulteraient 
+nécessairement des désordres auxquels ces rassemblemens illégaux auraient donné 
+lieu, et des peines de discipline que l'autorité universitaire se verrait forcée 
+de prononcer contre les délinquans,
+
+Rappelle aux éludions de toutes les écoles de l'Université, dans
+l'intérét de leurs études, de leur avenir et de leurs familles, les
+articles qui suivent:
+
+Ordonnance du 5 juillet 1820.
+
+« Art. 18. Tout étudiant convaincu d'avoir, hors des écoles, excité des troubles 
+ou pris part a des désordres publics ou à des rassemblemens illégaux, pourra, 
+par mesure de discipline et à l'effet de prévenir les désordres que sa présence 
+pourrait occasionner dans les écoles, et suivant la gravité des cas, être privé 
+de deux inscriptions au moins et de quatre au plus, ou exclus des cours de la 
+Faculté ou de l'Académie, dans le ressort de laquelle la faute aura été commise, 
+pour six mois au moins ou pour deux ans au plus. Ces punitions devront être 
+prononcées par le conseil académique. Dans le cas d'exclusion, l'étudiant exclut 
+pourra se pourvoir devant la Commission de l'instruction publique, qui y 
+statuera définitivement.
+
+» Art. 19. En cas de récidive, il pourra être exclus de toutes les Académies, 
+pour le même temps de six mois au moins et de deux ans au plus. L'exclusion de 
+toutes les Académies ne pourra être prononcée que par la Commission de 
+l'instruction publique, à laquelle l'instruction de l'affaire sera renvoyée par 
+le conseil académique. L'étudiant pourra se pourvoir contre le jugement devant 
+notre conseil-d'état.
+
+» Art. 20. Il est défendu aux étudians, soit d'une Faculté soit de diverses 
+Facultés de différens ordres, de former entre eux aucune association, sans en 
+avoir obtenu la permission des autorités locales, et en avoir donné connaissance 
+au recteur de l'Académie ou des Académies dans lesquelles ils étudient. Il leur 
+est pareillement défendu d'agir ou d'écrire en nom collectif, comme s'ils 
+formaient une corporation ou association légalement reconnue.
+
+» En cas de contravention aux dispositions précédentes, il sera instruit contre 
+les contrevenans par les conseils académiques, et il pourra être prononcé les 
+punitions déterminées par les articles 19 et 20, en se conformant à tout ce qui 
+est prescrit par ces mêmes articles.
+
+
+Ordonnance du 2 février 1828.
+
+« Art. 36. Il y aura lieu, selon la gravité des cas, à prononcer l'exclusion, a 
+temps ou pour toujours, de la Faculté, de l'Académie, ou de toutes les Académies 
+du royaume, contre l'étudiant qui aurait, par ses discours où par ses actes, 
+outragé la religion, les moeurs ou le gouvernement; qui aurait pris une part 
+active à ces désordres, soit dans l'intérieur de l'école, soit au-dehors, on qui 
+aurait tenu une conduite notoirement scandaleuse. »
+
+Fait et délibéré en conseil, le 27 juillet 1830.
+
+Le ministre des affaires ecclésiastiques et de l'instruction publique, grand-
+maître de l'Université,
+
+Comte DE GUERNON-RANVILLE
+
+Pour le conseiller secrétaire du conseil,
+
+DELVINCOURT.
+
+8) Les acteurs des théâtres de Paris ont payé leur dette à la patrie; on a vu, 
+sur les champs de bataille du 29, bien des armes qui jusqu'alors n'avaient 
+brillé que dans les pacifiques combats de la scène. M. Arago, directeur du 
+Vaudeville, et les acteurs du grand cirque Franconi, ont fait eux-mêmes une 
+distribution d'armes du théâtre; leur zèle et leur courage ont été couverts 
+d'applaudissemens.
+
+9) Le furor arma ministrat de Virgile a reçu sa parfaite application; mais le si 
+forte virum quem eonspexere, silent a été en défaut. Un général essaya de jouer 
+ce rôle, mais il battit promptement en retraite, parce que la foule ne 
+s'apaisait pas.
+
+10) Cette première et touchante victime de notre révolution fut portée en triomphe 
+sur la place des Victoires, et déposée devant la grille de la statue équestre. 
+Ce sang de femme fut fécond; les cris de vengeance! vengeance! retentirent de 
+toutes parts. Le cadavre fut ensuite promené dans les rues, sous un drapeau 
+noir. Ce signe d'extermination, de duel à mort entre l'absolutisme et le
+peuple, flotta bientôt sur tous les groupes. C'était le précurseur du drapeau 
+tricolore. 
+
+11) C'est un trait unique dans l'histoire d'une insurrection; c'est le
+seul acte de vandalisme exercé par le peuple contre les monumens publics, et 
+quel vandalisme! qu'il exprime bien la situation des esprits au 28 au soir! 
+avec quelle rage on regardait tomber l'ombre, et l'impassible aiguille marcher 
+vers la nuit comme dans les jours ordinaires! Ce qu'il y a de plus singulier 
+dans cet épisode, c'est qu'on a pu le remarquer a la même heure, dans différons 
+quartiers; ce ne fut pas une idée isolée, un caprice d'exception, mais un 
+sentiment à peu près général.
+
+12) À neuf heures du soir, par une belle nuit d'été, Paris sans réverbères, sans 
+boutiques, sans gaz, sans voitures, offrait un tableau unique de désolation. A 
+minuit, avec ses pavés amoncelés, ses barricades, ses murs en ruines, ses mille 
+voitures échouées sur la boue, ses boulevard s dévastés, ses rues noires 
+désertes, Paris ne ressemblait à rien de connu; Thèbes et Herculanum sont moins 
+tristes: pas un retentissement, pas une ombre, pas un vivant, hormis l'ouvrier 
+immobile qui gardait la barricade avec son fusil et ses pistolets. Pour cadre à 
+tout cela, le sang de la veille et l'incertitude du lendemain.
+
+13) Qu'il était digne d'eux, ce dernier effort! bombarder Paris pour
+sauver la cour! Heureusement, les braves artilleurs de Vincennes, si Français, 
+si nationaux, se seraient révoltés d'indignation contre l'ultimatum de Saint-
+Cloud. 
+
+14) Ce nom produisit un effet électrique; quand les Parisiens revirent ce grand 
+bomme à leur tête, ils ne doutèrent plus de l'heureuse issue du combat.
+
+Un ami qui nous fut bien cher à nous et à tous les gens de lettres, Alphonse 
+Rabbe, mort sans avoir révélé toute la portée de son génie, disait souvent, en 
+parlant de Lafayette: Le héros des deux mondes sera le héros de deux 
+révolutions.
+
+15) C'était l'inscription crayonnée en blanc sur les panneaux fermés de mille 
+boutiques. Le détachement qui se porta sur le Louvre par les rues Montmartre, du 
+Mail et Croix-des-Petits-Champs, était commandé par les héroïques de 
+l'Ecole Polytechnique. Les dames, sur les balcons, agitaient leurs mouchoirs et 
+les saluaient des cris de vive l'école polytechnique!
+
+16) Les Tuileries prises d'assaut, le peuple se précipita dans ce repaire de la 
+tyrannie. Rien ne fut pillé, hors quelques marabouts qui servirent d'aigrettes 
+aux chapeaux des ouvriers. Chaque vainqueur s'assit un instant sur le trône: 
+c'était une fantaisie bien excusable dans ce grand jour.
+
+17) Ces monumens populaires élevés au Louvre et sur le marché des Innocens, 
+arrachent les larmes. Qu'y a-t-il? Rien, quelques bougies allumées, des 
+rosettes tricolores, et cette inscription sur papier: Morts pour la liberté! 
+Le coeur se serre, on tombe à genoux, on pleure avec les familles en deuil, avec 
+les jeunes filles qui jettent sur la fosse des fleurs et des couronnes.
+
+Le 29 au soir nous allions à l'Hôtel-de-Ville; la foule, dans la rue Saint-
+Honoré, s'était arrêtée et barrait le passage; vingt jeunes gens, tête nue, et 
+marchant avec lenteur, portaient un cadavre recouvert d'un suaire sanglant. On 
+lisait sur l'inscription:
+
+POTTIN MORT POUR LE LIBERTÉ, LE 29 JUILLET 1830.
+
+Tous les passans ôtaient leurs chapeaux, s'inclinaient en silence et pleuraient. 
+Cétait quelque chose de sublime à voir que ce peuple héroïque pleurant un frère 
+mort, agenouillé sur les barricades, au milieu des vestiges romans d'une grande 
+dévastation.
+</AUTRE>
+
+</RECUEIL>

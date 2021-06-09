@@ -1,0 +1,1785 @@
+<RECUEIL ponct= "TRUE">
+<TITRE_RECUEIL>
+La blessure des mots
+</TITRE_RECUEIL>
+<AUTEUR>
+Thierry Cabot
+</AUTEUR>
+<DATE>
+1958
+</DATE>
+<POEME>
+<TITRE>
+A Léane.
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>
+# Au feu de quelle étoile, à l'or de quelle rive,
+Au                PROPN  _                                                      Au                15   nsubj      0
+feu               ADJ    Gender=Masc|Number=Sing                                feu               -1   amod       0
+de                ADP    _                                                      de                2    case       0
+quelle            DET    Gender=Fem|Number=Sing                                 quel              1    det        0
+étoile            NOUN   Gender=Fem|Number=Sing                                 étoile            -4   nmod       0
+,                 PUNCT  _                                                      ,                 -5   punct      0
+à                 ADP    _                                                      à                 2    case       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+or                NOUN   Gender=Masc|Number=Sing                                or                -8   nmod       0
+de                ADP    _                                                      de                2    case       0
+quelle            DET    Gender=Fem|Number=Sing                                 quel              1    det        0
+rive              NOUN   Gender=Fem|Number=Sing                                 rive              -3   nmod       0
+,                 PUNCT  _                                                      ,                 -12  punct      0
+</VERS>
+<VERS>
+# Avons-nous quelquefois réchauffé nos pieds lourds ?
+avons-nous        AUX    Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avons-noure       2    cop        0
+quelquefois       ADV    _                                                      quelquefois       1    advmod     0
+réchauffé         ADJ    Gender=Masc|Number=Sing                                réchauffé         0    root       0
+nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+pieds             NOUN   Gender=Masc|Number=Plur                                pied              -2   obj        0
+lourds            ADJ    Gender=Masc|Number=Plur                                lourd             -1   amod       0
+?                 PUNCT  _                                                      ?                 -4   punct      1
+</VERS>
+<VERS>
+# Dans quel espace vain flottant à la dérive
+Dans              ADP    _                                                      Dans              2    case       0
+quel              DET    Gender=Masc|Number=Sing                                quel              1    det        0
+espace            NOUN   Gender=Masc|Number=Sing                                espace            0    root       0
+vain              ADJ    Gender=Masc|Number=Sing                                vain              -1   amod       0
+flottant          VERB   Tense=Pres|VerbForm=Part                               flotter           -2   acl        0
+à                 ADP    _                                                      à                 2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+dérive            NOUN   Gender=Fem|Number=Sing                                 dérive            -3   obl        0
+</VERS>
+<VERS>
+# Et rongé par la lèpre invisible des jours ?
+et                CCONJ  _                                                      et                1    cc         0
+rongé             VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       ronger            -5   conj       0
+par               ADP    _                                                      par               2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+lèpre             NOUN   Gender=Fem|Number=Sing                                 lèpre             -3   obl:agent  0
+invisible         ADJ    Gender=Fem|Number=Sing                                 invisible         -1   amod       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+jours             NOUN   Gender=Masc|Number=Plur                                jour              -13  _          0
+?                 PUNCT  _                                                      ?                 -14  _          1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Qui sommes-nous, perdus comme un sanglot  d'écume
+Qui               PRON   _                                                      Qui               0    root       0
+sommes-nous       AUX    Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  sommes-noure      -1   _          0
+,                 PUNCT  _                                                      ,                 1    punct      0
+perdus            VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       perdre            -3   _          0
+comme             ADP    _                                                      comme             2    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+sanglot           NOUN   Gender=Masc|Number=Sing                                sanglot           -3   obl        0
+d'                ADP    _                                                      de                1    case       0
+écume             NOUN   Gender=Masc|Number=Sing                                écume             -2   nmod       0
+</VERS>
+<VERS>
+# Parmi les fleuves las où saignent nos élans ?
+parmi             ADP    _                                                      parmi             2    case       0
+les               DET    Definite=Def|Gender=Fem|Number=Plur|PronType=Art       le                1    det        0
+fleuves           NOUN   Gender=Fem|Number=Plur                                 fleuve            -5   nmod       0
+las               DET    Gender=Fem|Number=Plur                                 el                -12  _          0
+où                PRON   PronType=Rel                                           où                1    obl        0
+saignent          VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  saigner           -14  _          0
+nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+élans             NOUN   Gender=Masc|Number=Plur                                élan              -2   nsubj      0
+?                 PUNCT  _                                                      ?                 -17  _          1
+</VERS>
+<VERS>
+# Qui sommes-nous, tachés de soleil et de brume
+Qui               PRON   _                                                      Qui               3    nsubj      0
+sommes-nous       AUX    Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  sommes-noure      2    aux        0
+,                 PUNCT  _                                                      ,                 1    punct      0
+tachés            VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       tacher            0    root       0
+de                ADP    _                                                      de                1    case       0
+soleil            NOUN   Gender=Masc|Number=Sing                                soleil            -2   obl:arg    0
+et                CCONJ  _                                                      et                2    cc         0
+de                ADP    _                                                      de                1    case       0
+brume             NOUN   Gender=Fem|Number=Sing                                 brume             -3   conj       0
+</VERS>
+<VERS>
+# Et si riches de dons et de voeux chancelants ?
+et                CCONJ  _                                                      et                2    cc         0
+si                ADV    _                                                      si                1    advmod     0
+riches            ADJ    Gender=Fem|Number=Plur                                 riche             -8   conj       0
+de                ADP    _                                                      de                1    case       0
+dons              NOUN   Gender=Masc|Number=Plur                                don               -2   obl:arg    0
+et                CCONJ  _                                                      et                2    cc         0
+de                ADP    _                                                      de                1    case       0
+voeux             NOUN   Gender=Masc|Number=Plur                                voeu              -3   conj       0
+chancelants       X      _                                                      chancelants       -14  punct      0
+?                 PUNCT  _                                                      ?                 -15  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Adieu ! beaux rires clairs, adieu ! fauves haleines ;
+Adieu             NOUN   Gender=Masc|Number=Sing                                Adieu             0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+beaux             ADJ    Gender=Masc|Number=Plur                                beau              1    amod       0
+rires             NOUN   Gender=Masc|Number=Plur                                rire              0    root       0
+clairs            ADJ    Gender=Masc|Number=Plur                                clair             -1   amod       0
+,                 PUNCT  _                                                      ,                 1    punct      0
+adieu             NOUN   Gender=Masc|Number=Sing                                adieu             -3   conj       0
+!                 PUNCT  _                                                      !                 -4   punct      1
+fauves            NOUN   Gender=Fem|Number=Plur                                 fauve             0    root       0
+haleines          ADJ    Gender=Fem|Number=Plur                                 halein            -1   amod       0
+;                 PUNCT  _                                                      ;                 -2   punct      1
+</VERS>
+<VERS>
+# Adieu ! soupirs mêlés sous le ciel enjôleur.
+adieu             NOUN   Gender=Masc|Number=Sing                                adieu             0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+soupirs           ADP    Gender=Masc|Number=Plur                                soupir            1    case       0
+mêlés             NOUN   Gender=Masc|Number=Plur                                mêlé              0    root       0
+sous              ADP    _                                                      sous              2    case       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+ciel              NOUN   Gender=Masc|Number=Sing                                ciel              -3   nmod       0
+enjôleur          ADJ    Gender=Masc|Number=Sing                                enjôleur          -1   amod       0
+.                 PUNCT  _                                                      .                 -5   punct      1
+</VERS>
+<VERS>
+# La joie aimante éclate avec ses ruches pleines
+La                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       Le                1    det        0
+joie              NOUN   Gender=Fem|Number=Sing                                 joie              2    nsubj      0
+aimante           AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  aimanter          1    aux        0
+éclate            VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  éclater           0    root       0
+avec              ADP    _                                                      avec              2    case       0
+ses               DET    Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs           son               1    det        0
+ruches            NOUN   Gender=Fem|Number=Plur                                 ruche             -3   obl:mod    0
+pleines           ADJ    Gender=Fem|Number=Plur                                 plein             -1   amod       0
+</VERS>
+<VERS>
+# Mais la mort est tapie au fond de chaque fleur. 
+mais              CCONJ  _                                                      mais              4    cc         0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+mort              NOUN   Gender=Fem|Number=Sing                                 mort              2    nsubj      0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              1    cop        0
+tapie             ADJ    Gender=Masc|Number=Sing                                tapie             -9   conj       0
+au                ADJ    Gender=Masc|Number=Sing                                au                1    amod       0
+fond              NOUN   Gender=Masc|Number=Sing                                fond              -2   appos      0
+de                ADP    _                                                      de                2    case       0
+chaque            DET    Gender=Fem|Number=Sing                                 chaque            1    det        0
+fleur             NOUN   Gender=Fem|Number=Sing                                 fleur             -3   nmod       0
+.                 PUNCT  _                                                      .                 -15  punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Ah ! ne savons-nous pas que tout se décompose,
+ah                INTJ   _                                                      ah                0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+ne                ADV    Polarity=Neg                                           ne                1    advmod     0
+savons-nous       VERB   Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  savons-noure      0    root       0
+pas               ADV    Polarity=Neg                                           pas               -1   advmod     0
+que               SCONJ  _                                                      que               3    mark       0
+tout              PRON   Gender=Masc|Number=Sing                                tout              2    nsubj      0
+se                PRON   Person=3|PronType=Prs                                  se                1    expl:pass  0
+décompose         VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  décomposer        -5   ccomp      0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+</VERS>
+<VERS>
+# Que l'aube court déjà, tremblante, vers le soir,
+que               SCONJ  _                                                      que               3    mark       0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+aube              NOUN   Gender=Fem|Number=Sing                                 aube              1    nsubj      0
+court             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  courir            -5   ccomp      0
+déjà              ADV    _                                                      déjà              -1   advmod     0
+,                 PUNCT  _                                                      ,                 -2   punct      0
+tremblante        NOUN   Gender=Fem|Number=Sing                                 tremblante        -3   obl        0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+vers              ADP    _                                                      vers              2    case       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+soir              NOUN   Gender=Masc|Number=Sing                                soir              -7   obl        0
+,                 PUNCT  _                                                      ,                 -8   punct      0
+</VERS>
+<VERS>
+# Que nous ne respirons jamais la même rose,
+que               SCONJ  _                                                      que               3    mark       0
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               2    nsubj      0
+ne                ADV    Polarity=Neg                                           ne                1    advmod     0
+respirons         PRON   Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin   respiron          -12  advcl      0
+jamais            ADV    Polarity=Neg                                           jamais            -1   advmod     0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                2    det        0
+même              ADJ    Gender=Fem|Number=Sing                                 même              1    amod       0
+rose              NOUN   Gender=Fem|Number=Sing                                 rose              -4   obj        0
+,                 PUNCT  _                                                      ,                 -27  _          0
+</VERS>
+<VERS>
+# Que tout succède à tout et se fond dans le noir ?
+que               PRON   PronType=Rel                                           que               -28  _          0
+tout              PRON   Gender=Masc|Number=Sing                                tout              1    nsubj      0
+succède           VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  succéder          -30  _          0
+à                 ADP    _                                                      à                 1    case       0
+tout              PRON   Gender=Masc|Number=Sing                                tout              -2   obl        0
+et                CCONJ  _                                                      et                2    cc         0
+se                PRON   Person=3|PronType=Prs                                  se                1    expl       0
+fond              NOUN   Gender=Masc|Number=Sing                                fond              -5   conj       0
+dans              ADP    _                                                      dans              2    case       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+noir              NOUN   Gender=Masc|Number=Sing                                noir              -3   nmod       0
+?                 PUNCT  _                                                      ?                 -9   punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Matins frais ! lisses doigts ! épopée ivre et tendre !
+Matins            INTJ   _                                                      Matins            0    root       0
+frais             ADJ    Gender=Masc|Number=Plur                                frais             -1   amod       0
+!                 PUNCT  _                                                      !                 -2   punct      1
+lisses            ADJ    Gender=Masc|Number=Plur                                lisse             1    amod       0
+doigts            NOUN   Gender=Masc|Number=Plur                                doigt             0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+épopée            NOUN   Gender=Fem|Number=Sing                                 épopée            0    root       0
+ivre              ADJ    Gender=Fem|Number=Sing                                 ivre              -1   amod       0
+et                CCONJ  _                                                      et                1    cc         0
+tendre            VERB   VerbForm=Inf                                           tendre            -3   conj       0
+!                 PUNCT  _                                                      !                 -4   punct      1
+</VERS>
+<VERS>
+# Nos aveugles destins filent d'un pas têtu.
+Nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               2    det        0
+aveugles          ADJ    Gender=Masc|Number=Plur                                aveugle           1    amod       0
+destins           NOUN   Gender=Masc|Number=Plur                                destin            1    nsubj      0
+filent            VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  filer             0    root       0
+d'                ADP    _                                                      de                2    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+pas               NOUN   Gender=Masc|Number=Sing                                pas               -3   obl:arg    0
+têtu              PRON   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       têtir             -1   amod       0
+.                 PUNCT  _                                                      .                 -5   punct      1
+</VERS>
+<VERS>
+# Balayés ! les coeurs fous toujours prêts à s'éprendre,
+Balayés           INTJ   _                                                      Balayés           0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+coeurs            NOUN   Gender=Masc|Number=Plur                                coeur             0    root       0
+fous              NOUN   Gender=Masc|Number=Plur                                fou               -1   appos      0
+toujours          ADV    _                                                      toujours          1    advmod     0
+prêts             NOUN   Gender=Masc|Number=Plur                                prêt              -3   appos      0
+à                 ADP    _                                                      à                 2    case       0
+s'                PRON   Person=3|PronType=Prs                                  se                1    expl       0
+éprendre          SYM    _                                                      éprendre          -3   nmod       0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Enfuis ! les mots soufflés en un chant qui s'est tu.
+enfuis            INTJ   _                                                      enfuis            -8   appos      0
+!                 PUNCT  _                                                      !                 -9   punct      1
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+mots              NOUN   Gender=Masc|Number=Plur                                mot               0    root       0
+soufflés          ADJ    Gender=Masc|Number=Plur                                soufflé           -1   amod       0
+en                ADP    _                                                      en                2    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+chant             NOUN   Gender=Masc|Number=Sing                                chant             -4   nmod       0
+qui               PRON   PronType=Rel                                           qui               -5   _          0
+s'                PRON   Person=3|PronType=Prs                                  se                -6   _          0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              -7   _          0
+tu                PRON   Number=Sing|Person=2|PronType=Prs                      il                -8   _          0
+.                 PUNCT  _                                                      .                 -9   _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Hélas ! comment peut-on, la paupière défaite,
+hélas             NOUN   Gender=Masc|Number=Sing                                hélas             0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+comment           ADV    _                                                      comment           5    advmod     0
+peut-on           PRON   Gender=Masc|Number=Sing|Person=3                       peut-on           4    nmod       0
+,                 PUNCT  _                                                      ,                 3    punct      0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                2    det        0
+paupière          ADJ    Gender=Fem|Number=Sing                                 paupier           1    amod       0
+défaite           NOUN   Gender=Fem|Number=Sing                                 défaite           0    root       0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+</VERS>
+<VERS>
+# Laisser là notre monde aux vins délicieux ?
+laisser           VERB   VerbForm=Inf                                           laisser           -2   acl        0
+là                ADV    _                                                      là                -1   advmod     0
+notre             DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          son               1    det        0
+monde             NOUN   Gender=Masc|Number=Sing                                monde             -3   obj        0
+aux               ADP    Gender=Masc|Number=Plur                                al                1    case       0
+vins              NOUN   Gender=Masc|Number=Plur                                vin               -5   obl        0
+délicieux         ADJ    Gender=Masc|Number=Plur                                délicieux         -1   amod       0
+?                 PUNCT  _                                                      ?                 -9   punct      1
+</VERS>
+<VERS>
+# Comment quitter l'éclat des longs chemins en fête
+Comment           ADV    _                                                      Comment           1    advmod     0
+quitter           VERB   VerbForm=Inf                                           quitter           0    root       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+éclat             NOUN   Gender=Masc|Number=Sing                                éclat             -2   obj        0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                2    det        0
+longs             ADJ    Gender=Masc|Number=Plur                                long              1    amod       0
+chemins           NOUN   Gender=Masc|Number=Plur                                chemin            -5   obj        0
+en                ADP    _                                                      en                1    case       0
+fête              NOUN   Gender=Fem|Number=Sing                                 fête              -2   nmod       0
+</VERS>
+<VERS>
+# Et ne plus voir la terre et ne plus voir les cieux ?
+et                CCONJ  _                                                      et                3    cc         0
+ne                ADV    Polarity=Neg                                           ne                2    advmod     0
+plus              ADV    _                                                      plus              1    advmod     0
+voir              VERB   VerbForm=Inf                                           voir              -11  conj       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+terre             NOUN   Gender=Fem|Number=Sing                                 terre             -2   obj        0
+et                CCONJ  _                                                      et                3    cc         0
+ne                ADV    Polarity=Neg                                           ne                2    advmod     0
+plus              ADV    Polarity=Neg                                           plus              1    advmod     0
+voir              VERB   VerbForm=Inf                                           voir              -17  conj       0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+cieux             NOUN   Gender=Masc|Number=Plur                                ciel              -2   obj        0
+?                 PUNCT  _                                                      ?                 -20  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Or pitoyables nains mordus par l'éphémère,
+Or                CCONJ  _                                                      Or                2    cc         0
+pitoyables        ADJ    Gender=Masc|Number=Plur                                pitoyable         1    amod       0
+nains             NOUN   Gender=Masc|Number=Plur                                nain              0    root       0
+mordus            VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       mordre            -1   acl        0
+par               ADP    _                                                      par               2    case       0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+éphémère          ADJ    Gender=Fem|Number=Sing                                 éphémère          -3   obl:agent  0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Comme nous avons cru dépouiller l'éternel
+comme             ADP    _                                                      comme             3    case       0
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               2    nsubj      0
+avons             AUX    Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             1    aux        0
+cru               NOUN   Gender=Masc|Number=Sing                                cru               -9   nmod       0
+dépouiller        VERB   VerbForm=Inf                                           dépouiller        -1   acl        0
+l'                DET    Definite=Def|Number=Sing|PronType=Art                  le                1    det        0
+éternel           NOUN   Gender=Masc|Number=Sing                                éternel           -2   obj        0
+</VERS>
+<VERS>
+# En caressant nos biens d'une ferveur amère,
+en                ADP    _                                                      en                1    case       0
+caressant         NOUN   Gender=Masc|Number=Sing                                caressant         -4   obl        0
+nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+biens             NOUN   Gender=Masc|Number=Plur                                bien              -16  _          0
+d'                ADP    _                                                      de                2    case       0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                1    det        0
+ferveur           NOUN   Gender=Fem|Number=Sing                                 ferveur           -3   nmod       0
+amère             ADJ    Gender=Fem|Number=Sing                                 amer              -1   amod       0
+,                 PUNCT  _                                                      ,                 -21  _          0
+</VERS>
+<VERS>
+# En couvant nos bijoux d'un émoi fraternel !
+en                ADP    _                                                      en                1    mark       0
+couvant           VERB   Tense=Pres|VerbForm=Part                               couver            -23  _          0
+nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+bijoux            NOUN   Gender=Masc|Number=Plur                                bijou             -2   obj        0
+d'                ADP    _                                                      de                2    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+émoi              NOUN   Gender=Masc|Number=Sing                                émoi              -3   nmod       0
+fraternel         ADJ    Gender=Masc|Number=Sing                                fraternel         -1   amod       0
+!                 PUNCT  _                                                      !                 -30  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Pour quelques passions labiles et fuyantes,
+pour              ADP    _                                                      pour              2    case       0
+quelques          DET    Gender=Fem|Number=Plur                                 quelque           1    det        0
+passions          NOUN   Gender=Fem|Number=Plur                                 passion           7    obl:mod    0
+labiles           ADJ    Gender=Fem|Number=Plur                                 labil             -1   amod       0
+et                CCONJ  _                                                      et                1    cc         0
+fuyantes          ADJ    Gender=Fem|Number=Plur                                 fuyant            -2   conj       0
+,                 PUNCT  _                                                      ,                 3    punct      0
+</VERS>
+<VERS>
+# Nous avons serré fort jusqu'à l'avidité
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               2    nsubj      0
+avons             AUX    Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             1    aux        0
+serré             ADJ    Gender=Masc|Number=Sing                                serré             0    root       0
+fort              ADV    _                                                      fort              -1   advmod     0
+jusqu'            ADP    _                                                      jusque            3    case       0
+à                 ADP    _                                                      à                 2    case       0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+avidité           NOUN   Gender=Fem|Number=Sing                                 avidité           -5   obl        0
+</VERS>
+<VERS>
+# Des bras vertigineux et des mains défaillantes
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+bras              NOUN   Gender=Masc|Number=Plur                                bras              -7   obj        0
+vertigineux       ADJ    Gender=Masc|Number=Plur                                vertigineux       -1   amod       0
+et                CCONJ  _                                                      et                2    cc         0
+des               DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                1    det        0
+mains             NOUN   Gender=Fem|Number=Plur                                 main              -4   conj       0
+défaillantes      ADJ    Gender=Fem|Number=Plur                                 défaillant        -1   amod       0
+</VERS>
+<VERS>
+# Fleuris sous les yeux chauds d'on ne sait quel été.
+fleuris           ADJ    Gender=Fem|Number=Plur                                 fleuri            -6   amod       0
+sous              ADP    _                                                      sous              2    case       0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+yeux              NOUN   Gender=Masc|Number=Plur                                oeil              -16  obl        0
+chauds            ADJ    Gender=Masc|Number=Plur                                chaud             -1   amod       0
+d'                ADP    _                                                      de                3    mark       0
+on                PRON   Gender=Masc|Number=Sing|Person=3                       on                2    nsubj      0
+ne                ADV    Polarity=Neg                                           ne                1    advmod     0
+sait              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  savoir            -21  advcl      0
+quel              DET    Gender=Masc|Number=Sing                                quel              1    det        0
+été               NOUN   Gender=Masc|Number=Sing                                été               -2   obl        0
+.                 PUNCT  _                                                      .                 -24  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Nous avons tant de fois chéri de fausses gloires,
+Nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               1    nsubj      0
+avons             VERB   Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             13   nsubj      0
+tant              ADV    _                                                      tant              2    det        0
+de                ADP    _                                                      de                -1   fixed      0
+fois              NOUN   Gender=Fem|Number=Sing                                 fois              -3   obl:mod    0
+chéri             VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       chérir            -4   acl        0
+de                DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                2    det        0
+fausses           ADJ    Gender=Fem|Number=Plur                                 faux              1    amod       0
+gloires           PRON   Number=Plur                                            gloire            -3   obl        0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Tant de fois lâchement fait sonner notre orgueil,
+tant              ADV    _                                                      tant              2    det        0
+de                ADP    _                                                      de                -1   fixed      0
+fois              NOUN   Gender=Fem|Number=Sing                                 fois              -7   obl        0
+lâchement         AUX    Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  lâchemer          1    aux        0
+fait              VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       faire             0    root       0
+sonner            NOUN   VerbForm=Inf                                           sonner            -1   obj        0
+notre             DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          son               1    det        0
+orgueil           NOUN   Gender=Masc|Number=Sing                                orgueil           -3   obj        0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Tant de fois enlacé des rêves dérisoires
+tant              ADV    _                                                      tant              2    det        0
+de                ADP    _                                                      de                -1   fixed      0
+fois              NOUN   Gender=Fem|Number=Sing                                 fois              -7   obl        0
+enlacé            ADP    _                                                      enlacé            2    case       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+rêves             NOUN   Gender=Masc|Number=Plur                                rêve              -10  obl        0
+dérisoires        VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       dérisoirer        -1   acl        0
+</VERS>
+<VERS>
+# Malgré la suffocante image du cercueil.
+malgré            ADP    _                                                      malgré            3    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                2    det        0
+suffocante        ADJ    Gender=Fem|Number=Sing                                 suffocant         1    amod       0
+image             NOUN   Gender=Fem|Number=Sing                                 image             -4   obl        0
+du                DET    Gender=Masc|Number=Sing                                du                1    det        0
+cercueil          NOUN   Gender=Masc|Number=Sing                                cercueil          -17  obj        0
+.                 PUNCT  _                                                      .                 -18  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Pendant que la vieillesse armait son poing sévère,
+Pendant           ADP    _                                                      Pendant           4    mark       0
+que               SCONJ  _                                                      que               -1   fixed      0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+vieillesse        NOUN   Gender=Fem|Number=Sing                                 vieillesse        1    nsubj      0
+armait            VERB   Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin   armer             15   advcl      0
+son               DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          son               1    det        0
+poing             NOUN   Gender=Masc|Number=Sing                                poing             -2   obj        0
+sévère            ADJ    Gender=Masc|Number=Sing                                sévère            -1   amod       0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Comme nous avons mis de haine et de fureur
+comme             ADP    _                                                      comme             3    mark       0
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               2    nsubj      0
+avons             AUX    Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             1    aux        0
+mis               VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       mettre            -8   advcl      0
+de                ADP    _                                                      de                1    case       0
+haine             NOUN   Gender=Fem|Number=Sing                                 haine             -2   obl:arg    0
+et                CCONJ  _                                                      et                2    cc         0
+de                ADP    _                                                      de                1    case       0
+fureur            NOUN   Gender=Masc|Number=Sing                                fureur            -3   conj       0
+</VERS>
+<VERS>
+# A briser le plafond de nos cages de verre,
+a                 AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  avoir             1    aux        0
+briser            VERB   VerbForm=Inf                                           briser            0    root       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+plafond           NOUN   Gender=Masc|Number=Sing                                plafond           -2   obj        0
+de                ADP    _                                                      de                2    case       0
+nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+cages             NOUN   Gender=Masc|Number=Plur                                cage              -3   nmod       0
+de                ADP    _                                                      de                1    case       0
+verre             NOUN   Gender=Masc|Number=Sing                                verre             -2   nmod       0
+,                 PUNCT  _                                                      ,                 -8   punct      0
+</VERS>
+<VERS>
+# A maudire le temps sournois et massacreur !
+a                 AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  avoir             1    aux        0
+maudire           VERB   VerbForm=Inf                                           maudire           -10  parataxis  0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+temps             NOUN   Gender=Masc|Number=Sing                                temps             -2   obj        0
+sournois          ADJ    Gender=Masc|Number=Sing                                sournois          -1   amod       0
+et                CCONJ  _                                                      et                1    cc         0
+massacreur        ADJ    Gender=Masc|Number=Sing                                massacreur        -2   conj       0
+!                 PUNCT  _                                                      !                 -16  punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Comme nous avons dû, soûlés d'arrière-mondes,
+comme             ADP    _                                                      comme             3    case       0
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               2    nsubj      0
+avons             AUX    Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             1    aux        0
+dû                VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       devoir            0    root       0
+,                 PUNCT  _                                                      ,                 -1   _          0
+soûlés            ADJ    Gender=Masc|Number=Plur                                soûlé             -2   _          0
+d'                ADP    _                                                      de                1    case       0
+arrière-mondes    NOUN   Gender=Masc|Number=Plur                                arrière-monde     -2   obl:arg    0
+,                 PUNCT  _                                                      ,                 1    punct      0
+</VERS>
+<VERS>
+# Cultiver en sursaut quelque louche au-delà :
+cultiver          VERB   VerbForm=Inf                                           cultiver          -6   _          0
+en                ADP    _                                                      en                1    case       0
+sursaut           NOUN   Gender=Masc|Number=Sing                                sursaut           -2   obl        0
+quelque           DET    Gender=Fem|Number=Sing                                 quelque           1    det        0
+louche            NOUN   Gender=Fem|Number=Sing                                 louche            -4   obj        0
+au-delà           ADV    _                                                      au-delà           6    advmod     0
+:                 PUNCT  _                                                      :                 -1   fixed      0
+</VERS>
+<VERS>
+# Eldorados naïfs crevant d'espoirs immondes !
+eldorados         INTJ   _                                                      eldorados         4    case       0
+naïfs             ADV    _                                                      naïfs             1    advmod     0
+crevant           ADP    _                                                      crevant           2    case       0
+d'                ADP    _                                                      de                1    case       0
+espoirs           NOUN   Gender=Masc|Number=Plur                                espoir            -7   nmod       0
+immondes          ADJ    Gender=Masc|Number=Plur                                immonde           -1   amod       0
+!                 PUNCT  _                                                      !                 -13  punct      1
+</VERS>
+<VERS>
+# Glauques ailleurs vomis sur des airs de gala !
+Glauques          ADJ    Gender=Masc|Number=Plur                                Glauque           2    amod       0
+ailleurs          ADV    _                                                      ailleurs          -1   advmod     0
+vomis             VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       vomir             0    root       0
+sur               ADP    _                                                      sur               2    case       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+airs              NOUN   Gender=Masc|Number=Plur                                air               -3   obl        0
+de                ADP    _                                                      de                1    case       0
+gala              NOUN   Gender=Fem|Number=Sing                                 gala              -2   nmod       0
+!                 PUNCT  _                                                      !                 -6   punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Et comme sans jamais prévenir les désastres,
+Et                CCONJ  _                                                      Et                4    cc         0
+comme             ADP    _                                                      comme             2    case       0
+sans              ADP    _                                                      sans              1    case       0
+jamais            ADV    Polarity=Neg                                           jamais            1    advmod     0
+prévenir          VERB   VerbForm=Inf                                           prévenir          0    root       0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+désastres         NOUN   Gender=Masc|Number=Plur                                désastre          -2   obj        0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+</VERS>
+<VERS>
+# Nous avons chaque jour tant et plus, tant et plus
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               1    nsubj      0
+avons             VERB   Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             -5   parataxis  0
+chaque            DET    Gender=Masc|Number=Sing                                chaque            1    det        0
+jour              NOUN   Gender=Masc|Number=Sing                                jour              -2   obl        0
+tant              ADV    _                                                      tant              -1   advmod     0
+et                CCONJ  _                                                      et                1    cc         0
+plus              ADV    _                                                      plus              -2   conj       0
+,                 PUNCT  _                                                      ,                 -11  punct      0
+tant              ADV    _                                                      tant              3    advmod     0
+et                CCONJ  _                                                      et                1    cc         0
+plus              ADV    _                                                      plus              -2   conj       0
+</VERS>
+<VERS>
+# Baisé de jeunes fronts aussi beaux que des astres
+baisé             NUM    _                                                      baisé             -15  appos      0
+de                ADP    _                                                      de                2    case       0
+jeunes            ADJ    Gender=Masc|Number=Plur                                jeune             1    amod       0
+fronts            NOUN   Gender=Masc|Number=Plur                                front             -3   nmod       0
+aussi             ADV    _                                                      aussi             1    advmod     0
+beaux             ADJ    Gender=Masc|Number=Plur                                beau              -2   amod       0
+que               ADP    _                                                      que               2    case       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+astres            NOUN   Gender=Masc|Number=Plur                                astre             -3   obl        0
+</VERS>
+<VERS>
+# Et de chers doigts noueux, vacillants et perclus !
+et                CCONJ  _                                                      et                3    cc         0
+de                DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                2    det        0
+chers             ADJ    Gender=Masc|Number=Plur                                cher              1    amod       0
+doigts            NOUN   Gender=Masc|Number=Plur                                doigt             -4   conj       0
+noueux            ADJ    Gender=Masc|Number=Plur                                noueux            -1   amod       0
+,                 PUNCT  _                                                      ,                 1    punct      0
+vacillants        X      _                                                      vacillants        -7   conj       0
+et                CCONJ  _                                                      et                1    cc         0
+perclus           X      _                                                      perclus           -9   conj       0
+!                 PUNCT  _                                                      !                 -33  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Mais qu'ici-bas du moins une flamme demeure,
+Mais              CCONJ  _                                                      Mais              0    root       0
+qu'               SCONJ  _                                                      que               -1   _          0
+ici-bas           ADV    _                                                      ici-bas           5    advmod     0
+du                DET    Gender=Masc|Number=Sing                                du                4    det        0
+moins             ADV    _                                                      moins             3    advmod     0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                2    det        0
+flamme            ADJ    Gender=Fem|Number=Sing                                 flamme            1    amod       0
+demeure           NOUN   Gender=Fem|Number=Sing                                 demeure           -7   _          0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+</VERS>
+<VERS>
+# Une épaule magique aux lumineux contours !
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                1    det        0
+épaule            NOUN   Gender=Fem|Number=Sing                                 épaule            -10  _          0
+magique           ADJ    Gender=Fem|Number=Sing                                 magique           -1   amod       0
+aux               NOUN   Gender=Masc|Number=Plur                                aux               -2   appos      0
+lumineux          ADJ    Gender=Masc|Number=Plur                                lumineux          -1   amod       0
+contours          ADJ    Gender=Masc|Number=Plur                                contour           -2   amod       0
+!                 PUNCT  _                                                      !                 -15  _          1
+</VERS>
+<VERS>
+# Que jaillissent du moins, volés à la même heure,
+Que               PRON   _                                                      Que               1    obj        0
+jaillissent       VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  jaillisser        0    root       0
+du                DET    Gender=Masc|Number=Sing                                du                3    det        0
+moins             ADV    _                                                      moins             2    advmod     0
+,                 PUNCT  _                                                      ,                 1    punct      0
+volés             VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       voler             -4   acl        0
+à                 ADP    _                                                      à                 3    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                2    det        0
+même              ADJ    Gender=Fem|Number=Sing                                 même              1    amod       0
+heure             NOUN   Gender=Fem|Number=Sing                                 heure             -4   obl        0
+,                 PUNCT  _                                                      ,                 -5   punct      0
+</VERS>
+<VERS>
+# Les cris ensoleillés de millions d'amours !
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+cris              NOUN   Gender=Masc|Number=Plur                                cri               1    nsubj      0
+ensoleillés       VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       ensoleiller       -8   advcl      0
+de                ADP    _                                                      de                1    case       0
+millions          NOUN   Gender=Masc|Number=Plur                                million           -2   obl:arg    0
+d'                ADP    _                                                      de                1    case       0
+amours            NOUN   Gender=Masc|Number=Plur                                amour             -2   nmod       0
+!                 PUNCT  _                                                      !                 -17  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Tant pis ! s'il faut demain périr d'un coup funeste.
+Tant              ADV    _                                                      Tant              1    advmod     0
+pis               ADV    _                                                      pis               0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+s'                PRON   Person=3|PronType=Prs                                  se                1    expl       0
+il                PRON   Gender=Masc|Number=Sing|Person=3|PronType=Prs          il                1    nsubj      0
+faut              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  falloir           0    root       0
+demain            ADV    _                                                      demain            -1   advmod     0
+périr             NOUN   Gender=Masc|Number=Sing                                périr             -2   ccomp      0
+d'                ADP    _                                                      de                2    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+coup              NOUN   Gender=Masc|Number=Sing                                coup              -3   nmod       0
+funeste           ADJ    Gender=Masc|Number=Sing                                funeste           -1   amod       0
+.                 PUNCT  _                                                      .                 -7   punct      1
+</VERS>
+<VERS>
+# C'est trop de vivre nus embués de néant,
+C'                PRON   Number=Sing|Person=3|PronType=Dem                      Ce                4    nsubj      0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              3    aux        0
+trop              ADV    _                                                      trop              2    advmod     0
+de                ADP    _                                                      de                -1   fixed      0
+vivre             VERB   VerbForm=Inf                                           vivre             0    root       0
+nus               ADJ    Gender=Masc|Number=Plur                                nu                -1   amod       0
+embués            NOUN   Gender=Masc|Number=Plur                                embué             -2   obj        0
+de                ADP    _                                                      de                1    case       0
+néant             NOUN   Gender=Masc|Number=Sing                                néant             -2   nmod       0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+</VERS>
+<VERS>
+# Trop de mettre à genoux l'idéal qui nous reste,
+trop              ADV    _                                                      trop              2    mark       0
+de                ADP    _                                                      de                -1   fixed      0
+mettre            VERB   VerbForm=Inf                                           mettre            -8   advcl      0
+à                 ADP    _                                                      à                 1    case       0
+genoux            NOUN   Gender=Masc|Number=Plur                                genou             -2   obl        0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+idéal             NOUN   Gender=Masc|Number=Sing                                idéal             -4   obj        0
+qui               PRON   PronType=Rel                                           qui               2    nsubj      0
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               1    obj        0
+reste             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  rester            -3   acl:relcl  0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+</VERS>
+<VERS>
+# Trop de guillotiner nos envols de géant.
+trop              ADV    _                                                      trop              2    advmod     0
+de                ADP    _                                                      de                -1   fixed      0
+guillotiner       PROPN  _                                                      guillotiner       -11  obl        0
+nos               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+envols            NOUN   Gender=Masc|Number=Plur                                envol             -13  obj        0
+de                ADP    _                                                      de                1    case       0
+géant             NOUN   Gender=Masc|Number=Sing                                géant             -2   nmod       0
+.                 PUNCT  _                                                      .                 -24  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Oh ! tant pis ! si le col majestueux des cygnes
+Oh                INTJ   _                                                      Oh                0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+tant              ADV    _                                                      tant              0    root       0
+pis               X      _                                                      pis               -1   _          0
+!                 PUNCT  _                                                      !                 -2   _          1
+si                SCONJ  _                                                      si                6    mark       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+col               NOUN   Gender=Masc|Number=Sing                                col               4    nsubj      0
+majestueux        ADJ    Gender=Masc|Number=Sing                                majestueux        -1   amod       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+cygnes            NOUN   Gender=Masc|Number=Plur                                cygne             -3   appos      0
+</VERS>
+<VERS>
+# Doit éclater bientôt comme un vulgaire fruit.
+doit              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  devoir            0    root       0
+éclater           VERB   VerbForm=Inf                                           éclater           -1   xcomp      0
+bientôt           ADV    _                                                      bientôt           -1   advmod     0
+comme             ADP    _                                                      comme             3    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                2    det        0
+vulgaire          ADJ    Gender=Masc|Number=Sing                                vulgaire          1    amod       0
+fruit             NOUN   Gender=Masc|Number=Sing                                fruit             -5   obl        0
+.                 PUNCT  _                                                      .                 -7   punct      1
+</VERS>
+<VERS>
+# Tant pis ! si quelques-uns traînent des maux insignes
+Tant              ADV    _                                                      Tant              1    advmod     0
+pis               X      _                                                      pis               0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+si                SCONJ  _                                                      si                2    mark       0
+quelques-uns      PRON   Gender=Masc|Number=Plur                                quelqu'un         1    nsubj      0
+traînent          VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  traîner           0    root       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+maux              NOUN   Gender=Masc|Number=Plur                                mal               -2   obj        0
+insignes          NOUN   Gender=Masc|Number=Plur                                insigne           -1   compound   0
+</VERS>
+<VERS>
+# Et d'autres maint bonheur depuis longtemps détruit.
+et                CCONJ  _                                                      et                3    cc         0
+d'                DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                2    det        0
+autres            ADJ    Gender=Fem|Number=Plur                                 autre             1    amod       0
+maint             NOUN   Gender=Fem|Number=Sing                                 maint             -5   conj       0
+bonheur           NOUN   Gender=Masc|Number=Sing                                bonheur           -1   nmod       0
+depuis            ADP    _                                                      depuis            2    mark       0
+longtemps         ADV    _                                                      longtemps         1    advmod     0
+détruit           VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       détruire          -11  advcl      0
+.                 PUNCT  _                                                      .                 -12  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Léane, ma poupée à la lumière blonde,
+Léane             INTJ   _                                                      Léane             0    root       0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+ma                DET    Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs           son               1    det        0
+poupée            NOUN   Gender=Fem|Number=Sing                                 poupée            -3   _          0
+à                 ADP    _                                                      à                 2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+lumière           NOUN   Gender=Fem|Number=Sing                                 lumière           -3   nmod       0
+blonde            NOUN   Gender=Fem|Number=Sing                                 blonde            -1   appos      0
+,                 PUNCT  _                                                      ,                 -5   punct      0
+</VERS>
+<VERS>
+# Les vents purs, ce matin, cajolent l'univers ;
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+vents             NOUN   Gender=Masc|Number=Plur                                vent              -10  _          0
+purs              ADJ    Gender=Masc|Number=Plur                                pur               -1   amod       0
+,                 PUNCT  _                                                      ,                 2    punct      0
+ce                DET    Gender=Masc|Number=Sing|PronType=Dem                   ce                1    det        0
+matin             NOUN   Gender=Masc|Number=Sing                                matin             -14  _          0
+,                 PUNCT  _                                                      ,                 3    punct      0
+cajolent          ADP    _                                                      cajolent          2    case       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+univers           NOUN   Gender=Masc|Number=Sing                                univers           -18  _          0
+;                 PUNCT  _                                                      ;                 -19  _          1
+</VERS>
+<VERS>
+# Tes jolis pieds en feu, plus ondoyants que l'onde,
+tes               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               2    det        0
+jolis             ADJ    Gender=Masc|Number=Plur                                joli              1    amod       0
+pieds             NOUN   Gender=Masc|Number=Plur                                pied              10   nsubj      0
+en                ADP    _                                                      en                1    case       0
+feu               NOUN   Gender=Masc|Number=Sing                                feu               -2   nmod       0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+plus              ADV    _                                                      plus              1    advmod     0
+ondoyants         NUM    _                                                      ondoyants         -5   appos      0
+que               ADP    _                                                      que               2    case       0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+onde              NOUN   Gender=Fem|Number=Sing                                 onde              -3   nmod       0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Volent sur le lit tiède et soyeux des prés verts.
+volent            VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  voler             0    root       0
+sur               ADP    _                                                      sur               2    case       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+lit               NOUN   Gender=Masc|Number=Sing                                lit               -3   obl        0
+tiède             ADJ    Gender=Masc|Number=Sing                                tiède             -1   amod       0
+et                CCONJ  _                                                      et                1    cc         0
+soyeux            ADJ    Gender=Masc|Number=Sing                                soyeux            -2   conj       0
+des               DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                1    det        0
+prés              NOUN   Gender=Masc|Number=Plur                                pré               -8   obj        0
+verts             ADJ    Gender=Masc|Number=Plur                                vert              -1   amod       0
+.                 PUNCT  _                                                      .                 -10  punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Que t'importent les fous englués de nuit blême
+Que               PRON   _                                                      Que               2    obj        0
+t'                PRON   Number=Sing|Person=2|PronType=Prs                      te                1    nsubj      0
+importent         VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  importer          0    root       0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+fous              NOUN   Gender=Masc|Number=Plur                                fou               -2   obj        0
+englués           VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       engluer           -1   acl        0
+de                ADP    _                                                      de                1    case       0
+nuit              NOUN   Gender=Fem|Number=Sing                                 nuit              -2   obl:mod    0
+blême             ADJ    Gender=Fem|Number=Sing                                 blême             -1   amod       0
+</VERS>
+<VERS>
+# Et leurs immenses deuils rougis de sang vermeil !
+et                CCONJ  _                                                      et                2    cc         0
+leurs             DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+immenses          NOUN   Gender=Masc|Number=Plur                                immense           -7   conj       0
+deuils            ADJ    Gender=Masc|Number=Plur                                deuil             -1   amod       0
+rougis            NOUN   Gender=Masc|Number=Plur                                rougis            -2   appos      0
+de                ADP    _                                                      de                1    case       0
+sang              NOUN   Gender=Masc|Number=Sing                                sang              -2   nmod       0
+vermeil           NOUN   Gender=Masc|Number=Sing                                vermeil           -14  xcomp      0
+!                 PUNCT  _                                                      !                 -15  punct      1
+</VERS>
+<VERS>
+# La vie en toi, Léane, éprise d'elle-même
+La                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       Le                1    det        0
+vie               NOUN   Gender=Fem|Number=Sing                                 vie               0    root       0
+en                ADP    _                                                      en                1    case       0
+toi               PRON   Number=Sing|Person=2                                   soi               -2   nmod       0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+léane             INTJ   _                                                      léane             -4   _          0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+éprise            PRON   Gender=Fem|Number=Sing                                 éprise            6    nmod       0
+d'                ADP    _                                                      de                1    case       0
+elle-même         PRON   Gender=Fem|Number=Sing|Person=3|Reflex=Yes             elle-même         -2   nmod       0
+</VERS>
+<VERS>
+# Coule, telle admirable, une eau sainte en éveil.
+coule             ADJ    Gender=Fem|Number=Sing                                 coul              -1   amod       0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+telle             ADJ    Gender=Fem|Number=Sing                                 tel               1    amod       0
+admirable         NOUN   Gender=Fem|Number=Sing                                 admirable         -12  _          0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                1    det        0
+eau               NOUN   Gender=Fem|Number=Sing                                 eau               -3   appos      0
+sainte            ADJ    Gender=Fem|Number=Sing                                 saint             -1   amod       0
+en                ADP    _                                                      en                1    case       0
+éveil             NOUN   Gender=Masc|Number=Sing                                éveil             -3   nmod       0
+.                 PUNCT  _                                                      .                 -19  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Oui, va foulant l'espace ébloui qui t'adore ;
+oui               INTJ   _                                                      oui               2    nsubj      0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+va                VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  aller             0    root       0
+foulant           ADP    _                                                      foulant           2    case       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+espace            NOUN   Gender=Masc|Number=Sing                                espace            -3   obl        0
+ébloui            ADJ    Gender=Masc|Number=Sing                                ébloui            -1   amod       0
+qui               PRON   PronType=Rel                                           qui               2    nsubj      0
+t'                PRON   Number=Sing|Person=2|PronType=Prs                      te                1    obj        0
+adore             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  adorer            -4   acl:relcl  0
+;                 PUNCT  _                                                      ;                 -8   punct      1
+</VERS>
+<VERS>
+# On dirait que l'azur boit chacun de tes pas ;
+on                PRON   Gender=Masc|Number=Sing|Person=3                       on                1    nsubj      0
+dirait            VERB   Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  dir               0    root       0
+que               SCONJ  _                                                      que               3    mark       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+azur              NOUN   Gender=Masc|Number=Sing                                azur              1    nsubj      0
+boit              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  boir              -4   ccomp      0
+chacun            PRON   Gender=Masc|Number=Sing                                chacun            -1   obj        0
+de                ADP    _                                                      de                2    case       0
+tes               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+pas               NOUN   Gender=Masc|Number=Plur                                pas               -4   obl:arg    0
+;                 PUNCT  _                                                      ;                 -9   punct      1
+</VERS>
+<VERS>
+# Nous avons dans les yeux la même douce aurore
+nous              PRON   Number=Plur|Person=1|PronType=Prs                      lui               1    nsubj      0
+avons             VERB   Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin  avoir             0    root       0
+dans              ADP    _                                                      dans              2    case       0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+yeux              NOUN   Gender=Masc|Number=Plur                                oeil              -3   obl:mod    0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                2    det        0
+même              ADV    _                                                      même              1    advmod     0
+douce             ADJ    Gender=Fem|Number=Sing                                 doux              -3   amod       0
+aurore            INTJ   _                                                      aurore            -7   obj        0
+</VERS>
+<VERS>
+# Et je te comblerai de ce que tu n'as pas.
+et                CCONJ  _                                                      et                3    cc         0
+je                PRON   Number=Sing|Person=1|PronType=Prs                      il                2    nsubj      0
+te                PRON   Number=Sing|Person=2|PronType=Prs                      lui               1    iobj       0
+comblerai         VERB   Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin   comblerair        -11  conj       0
+de                ADP    _                                                      de                1    case       0
+ce                PRON   Number=Sing|Person=3|PronType=Dem                      ce                -2   obl:arg    0
+que               PRON   PronType=Rel                                           que               -14  _          0
+tu                PRON   Number=Sing|Person=2|PronType=Prs                      il                -15  _          0
+n'                ADV    Polarity=Neg                                           ne                -16  _          0
+as                AUX    Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin  avoir             -17  _          0
+pas               ADV    Polarity=Neg                                           pas               -18  _          0
+.                 PUNCT  _                                                      .                 -19  _          1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# Léane, l'heure est vaste à qui se sent des ailes ;
+Léane             INTJ   _                                                      Léane             5    obl:mod    0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+heure             NOUN   Gender=Fem|Number=Sing                                 heure             2    nsubj      0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              1    cop        0
+vaste             ADJ    Gender=Fem|Number=Sing                                 vaste             0    root       0
+à                 ADP    _                                                      à                 1    case       0
+qui               PRON   PronType=Rel                                           qui               2    obl        0
+se                PRON   Person=3|PronType=Prs                                  se                1    expl:pass  0
+sent              VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  sentir            -4   acl:relcl  0
+des               DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                1    det        0
+ailes             NOUN   Gender=Fem|Number=Plur                                 aile              -2   nsubj      0
+;                 PUNCT  _                                                      ;                 -7   punct      1
+</VERS>
+<VERS>
+# Quelque chose de bon fascine et charme l'air ; 
+quelque           DET    Gender=Fem|Number=Sing                                 quelque           1    det        0
+chose             NOUN   Gender=Fem|Number=Sing                                 chose             3    nsubj      0
+de                ADP    _                                                      de                2    mark       0
+bon               ADJ    Gender=Masc|Number=Sing                                bon               1    amod       0
+fascine           VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  fasciner          0    root       0
+et                CCONJ  _                                                      et                1    cc         0
+charme            NOUN   Gender=Fem|Number=Sing                                 charme            -2   conj       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+air               NOUN   Gender=Masc|Number=Sing                                air               -4   obj        0
+;                 PUNCT  _                                                      ;                 -5   punct      1
+</VERS>
+<VERS>
+# J'ai ta candeur, ma fée, au bout de mes prunelles
+j'                PRON   Number=Sing|Person=1|PronType=Prs                      je                3    nsubj      0
+ai                AUX    Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin  avoir             2    cop        0
+ta                SYM    _                                                      ta                1    compound   0
+candeur           NOUN   Gender=Masc|Number=Sing                                candeur           17   nsubj      0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+ma                DET    Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs           son               1    det        0
+fée               NOUN   Gender=Fem|Number=Sing                                 fée               -3   appos      0
+,                 PUNCT  _                                                      ,                 2    punct      0
+au                ADP    _                                                      au                1    case       0
+bout              NOUN   Gender=Masc|Number=Sing                                bout              -3   conj       0
+de                ADP    _                                                      de                2    case       0
+mes               DET    Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs           son               1    det        0
+prunelles         NOUN   Gender=Fem|Number=Plur                                 prunelle          -3   nmod       0
+</VERS>
+<VERS>
+# Comme si pour moi seul ton coeur devenait clair.
+comme             ADP    _                                                      comme             1    case       0
+si                SCONJ  _                                                      si                -5   nmod       0
+pour              ADP    _                                                      pour              1    case       0
+moi               PRON   Number=Sing|Person=1                                   soi               -7   nmod       0
+seul              ADJ    Gender=Masc|Number=Sing                                seul              -1   amod       0
+ton               NOUN   Gender=Masc|Number=Sing                                ton               -15  appos      0
+coeur             NOUN   Gender=Masc|Number=Sing                                coeur             -1   appos      0
+devenait          VERB   Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin   devenir           0    root       0
+clair             ADJ    Gender=Masc|Number=Sing                                clair             -1   xcomp      0
+.                 PUNCT  _                                                      .                 -2   punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Cent effluves de joie illuminent tes gestes ;
+cent              NUM    _                                                      cent              1    nummod     0
+effluves          NOUN   Gender=Fem|Number=Plur                                 effluve           0    root       0
+de                ADP    _                                                      de                1    case       0
+joie              NOUN   Gender=Fem|Number=Sing                                 joie              -2   nmod       0
+illuminent        DET    Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  illuminer         2    det        0
+tes               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+gestes            NOUN   Gender=Masc|Number=Plur                                geste             -5   nmod       0
+;                 PUNCT  _                                                      ;                 -6   punct      1
+</VERS>
+<VERS>
+# Le monde étale au loin sa féconde santé ;
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+monde             NOUN   Gender=Masc|Number=Sing                                monde             1    nsubj      0
+étale             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  étaler            0    root       0
+au                ADP    _                                                      au                1    case       0
+loin              ADV    _                                                      loin              -2   advmod     0
+sa                DET    Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs           son               2    det        0
+féconde           ADJ    Gender=Fem|Number=Sing                                 fécond            1    amod       0
+santé             NOUN   Gender=Fem|Number=Sing                                 santé             -5   obj        0
+;                 PUNCT  _                                                      ;                 -6   punct      1
+</VERS>
+<VERS>
+# Conquête radieuse ! aventures célestes !
+conquête          NOUN   Gender=Fem|Number=Sing                                 conquête          0    root       0
+radieuse          NOUN   Gender=Fem|Number=Sing                                 radieux           -1   compound   0
+!                 PUNCT  _                                                      !                 -2   punct      0
+aventures         NOUN   Gender=Fem|Number=Plur                                 aventure          -3   appos      0
+célestes          ADJ    Gender=Fem|Number=Plur                                 céleste           -1   amod       0
+!                 PUNCT  _                                                      !                 -5   punct      1
+</VERS>
+<VERS>
+# Tu cours, pleine d'un songe inouï de beauté. . .
+Tu                DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          Tu                1    det        0
+cours             NOUN   Gender=Masc|Number=Sing                                cours             5    nsubj      0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+pleine            ADJ    Gender=Fem|Number=Sing                                 plein             -2   amod       0
+d'                ADP    _                                                      de                1    case       0
+un                PRON   Gender=Masc|Number=Sing                                un                -2   obl:arg    0
+songe             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  songer            0    root       0
+inouï             ADV    _                                                      inouï             -1   advmod     0
+de                ADP    _                                                      de                1    case       0
+beauté            NOUN   Gender=Fem|Number=Sing                                 beauté            -3   obl:arg    0
+.                 PUNCT  _                                                      .                 -4   punct      0
+.                 PUNCT  _                                                      .                 -5   punct      0
+.                 PUNCT  _                                                      .                 -6   punct      1
+</VERS>
+</STROPHE>
+<STROPHE>
+<VERS>
+# O tous deux ! aimons-nous sans nuage ni voiles !
+O                 NUM    _                                                      O                 0    root       0
+tous              DET    Gender=Masc|Number=Plur                                tout              1    det        0
+deux              NUM    _                                                      deux              -2   nummod     0
+!                 PUNCT  _                                                      !                 -3   punct      1
+aimons-nous       VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       aimons-nore       0    root       0
+sans              ADP    _                                                      sans              1    case       0
+nuage             NOUN   Gender=Masc|Number=Sing                                nuage             -2   obl        0
+ni                CCONJ  _                                                      ni                1    cc         0
+voiles            NOUN   Gender=Fem|Number=Plur                                 voile             -2   conj       0
+!                 PUNCT  _                                                      !                 -5   punct      1
+</VERS>
+<VERS>
+# Léane, toi ma chair, l'enfant de mon enfant
+Léane             INTJ   _                                                      Léane             0    root       0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+toi               PRON   Number=Sing|Person=2                                   soi               2    nmod       0
+ma                DET    Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs           son               1    det        0
+chair             NOUN   Gender=Masc|Number=Sing                                chair             -4   appos      0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+enfant            NOUN   Gender=Masc|Number=Sing                                enfant            -7   _          0
+de                ADP    _                                                      de                2    case       0
+mon               DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          son               1    det        0
+enfant            NOUN   Gender=Masc|Number=Sing                                enfant            -3   nmod       0
+</VERS>
+<VERS>
+# Dont les petites mains font rire les étoiles,
+dont              PRON   PronType=Rel                                           dont              -11  _          0
+les               DET    Definite=Def|Gender=Fem|Number=Plur|PronType=Art       le                2    det        0
+petites           ADJ    Gender=Fem|Number=Plur                                 petit             1    amod       0
+mains             NOUN   Gender=Fem|Number=Plur                                 main              1    nsubj      0
+font              VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  faire             -15  _          0
+rire              VERB   VerbForm=Inf                                           rire              -16  _          0
+les               DET    Definite=Def|Gender=Fem|Number=Plur|PronType=Art       le                1    det        0
+étoiles           NOUN   Gender=Fem|Number=Plur                                 étoile            -18  _          0
+,                 PUNCT  _                                                      ,                 2    punct      0
+</VERS>
+<VERS>
+# O Léane ! si frêle au soleil triomphant !
+o                 PUNCT  _                                                      o                 1    punct      0
+Léane             PROPN  _                                                      Léane             -3   appos      0
+!                 PUNCT  _                                                      !                 -1   punct      1
+si                SCONJ  _                                                      si                0    root       0
+frêle             ADV    _                                                      frêle             2    advmod     0
+au                ADP    _                                                      au                1    case       0
+soleil            NOUN   Gender=Masc|Number=Sing                                soleil            -3   _          0
+triomphant        ADJ    Gender=Masc|Number=Sing                                triomphant        -1   amod       0
+!                 PUNCT  _                                                      !                 -2   punct      1
+</VERS>
+</STROPHE>
+</CORPS>
+</POEME>
+<POEME>
+<TITRE>
+Devant La Mer.
+</TITRE>
+<CORPS>
+<STROPHE>
+<VERS>
+# Secoue au moins le vide insultant qui te borne
+Secoue            ADJ    Gender=Masc|Number=Sing                                Secoue            1    amod       0
+au                ADP    _                                                      au                0    root       0
+moins             ADV    _                                                      moins             2    advmod     0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+vide              NOUN   Gender=Masc|Number=Sing                                vide              -3   _          0
+insultant         VERB   Tense=Pres|VerbForm=Part                               insulter          -1   acl        0
+qui               PRON   PronType=Rel                                           qui               2    nsubj      0
+te                PRON   Number=Sing|Person=2|PronType=Prs                      lui               1    iobj       0
+borne             NOUN   Gender=Fem|Number=Sing                                 borne             -4   acl:relcl  0
+</VERS>
+<VERS>
+# Avec l'oeil nébuleux d'une revêche nuit.
+avec              ADP    _                                                      avec              2    case       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+oeil              NOUN   Gender=Masc|Number=Sing                                oeil              -3   nmod       0
+nébuleux          ADJ    Gender=Masc|Number=Sing                                nébuleux          -1   amod       0
+d'                ADP    _                                                      de                3    case       0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                2    det        0
+revêche           ADJ    Gender=Fem|Number=Sing                                 revêche           1    amod       0
+nuit              NOUN   Gender=Fem|Number=Sing                                 nuit              -8   nmod       0
+.                 PUNCT  _                                                      .                 -16  _          1
+</VERS>
+<VERS>
+# Ne goûte plus jusqu'à vomir le crachat morne
+Ne                ADV    Polarity=Neg                                           Ne                0    root       0
+goûte             ADP    _                                                      goûte             -1   _          0
+plus              ADV    _                                                      plus              -1   fixed      0
+jusqu'            ADP    _                                                      jusque            -2   fixed      0
+à                 ADP    _                                                      à                 -3   fixed      0
+vomir             INTJ   _                                                      vomir             -5   _          0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+crachat           NOUN   Gender=Masc|Number=Sing                                crachat           -7   _          0
+morne             ADP    _                                                      morne             2    case       0
+</VERS>
+<VERS>
+# Du médiocre qu'étouffe une écharpe d'ennui.
+du                DET    Gender=Masc|Number=Sing                                du                1    det        0
+médiocre          ADJ    Gender=Masc|Number=Sing                                médiocre          -3   amod       0
+qu'               PRON   PronType=Rel                                           que               -11  _          0
+étouffe           AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  étouffer          -12  _          0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                1    det        0
+écharpe           NOUN   Gender=Fem|Number=Sing                                 écharpe           -14  _          0
+d'                ADP    _                                                      de                1    case       0
+ennui             NOUN   Gender=Masc|Number=Sing                                ennui             -2   nmod       0
+.                 PUNCT  _                                                      .                 -17  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Hume tes mots, sème ta voix, hisse tes rêves,
+hume              INTJ   _                                                      hume              0    root       0
+tes               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+mots              NOUN   Gender=Masc|Number=Plur                                mot               -2   _          0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+sème              SCONJ  _                                                      sème              8    mark       0
+ta                SYM    _                                                      ta                7    nsubj      0
+voix              NOUN   Gender=Fem|Number=Sing                                 voix              -1   compound   0
+,                 PUNCT  _                                                      ,                 -2   punct      0
+hisse             ADV    _                                                      hisse             2    advmod     0
+tes               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+rêves             NOUN   Gender=Masc|Number=Plur                                rêve              -5   appos      0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+</VERS>
+<VERS>
+# Décapite les murs flageolants à moitié,
+décapite          VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  décapiter         -12  _          0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+murs              NOUN   Gender=Masc|Number=Plur                                mur               -2   obj        0
+flageolants       VERB   Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part       flageolanre       -1   acl        0
+à                 ADP    _                                                      à                 1    case       0
+moitié            NOUN   Gender=Fem|Number=Sing                                 moitié            -2   obl        0
+,                 PUNCT  _                                                      ,                 -6   punct      0
+</VERS>
+<VERS>
+# Et fais encore en magicien des blondes grèves
+et                CCONJ  _                                                      et                1    cc         0
+fais              VERB   Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin  faire             -8   conj       0
+encore            ADV    _                                                      encore            -1   advmod     0
+en                ADP    _                                                      en                1    case       0
+magicien          NOUN   Gender=Masc|Number=Sing                                magicien          -3   obl        0
+des               DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                1    det        0
+blondes           NOUN   Gender=Fem|Number=Plur                                 blonde            -5   obj        0
+grèves            ADJ    Gender=Fem|Number=Plur                                 grève             -1   amod       0
+</VERS>
+<VERS>
+# S'élargir sous ta foi l'horizon tout entier.
+s'                PRON   Person=3|PronType=Prs                                  se                1    expl:pass  0
+élargir           VERB   VerbForm=Inf                                           élargir           -3   acl        0
+sous              ADP    _                                                      sous              1    case       0
+ta                SYM    _                                                      ta                -2   obl        0
+foi               NOUN   Gender=Fem|Number=Sing                                 foi               -1   compound   0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+horizon           NOUN   Gender=Masc|Number=Sing                                horizon           -33  _          0
+tout              ADV    _                                                      tout              1    advmod     0
+entier            ADJ    Gender=Masc|Number=Sing                                entier            -2   amod       0
+.                 PUNCT  _                                                      .                 -36  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Que peuvent les corbeaux que la vermine écrase ?
+que               PRON   PronType=Rel                                           que               1    nsubj      0
+peuvent           VERB   Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  pouvoir           0    root       0
+les               DET    Definite=Def|Gender=Fem|Number=Plur|PronType=Art       le                1    det        0
+corbeaux          NOUN   Gender=Masc|Number=Plur                                corbeau           -2   obj        0
+que               SCONJ  _                                                      que               3    mark       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+vermine           NOUN   Gender=Fem|Number=Sing                                 vermine           1    nsubj      0
+écrase            VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  écraser           -6   advcl      0
+?                 PUNCT  _                                                      ?                 -7   punct      1
+</VERS>
+<VERS>
+# N'es-tu pas né pour vivre et plus noble et plus grand,
+N'                ADV    Polarity=Neg                                           Ne                3    advmod     0
+es-tu             AUX    Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       es-tre            2    aux        0
+pas               ADV    Polarity=Neg                                           pas               1    advmod     0
+né                VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       naître            0    root       0
+pour              ADP    _                                                      pour              1    mark       0
+vivre             VERB   VerbForm=Inf                                           vivre             -2   advcl      0
+et                CCONJ  _                                                      et                2    cc         0
+plus              ADV    _                                                      plus              1    advmod     0
+noble             ADJ    Gender=Masc|Number=Sing                                noble             -3   conj       0
+et                CCONJ  _                                                      et                2    cc         0
+plus              ADV    _                                                      plus              1    advmod     0
+grand             ADJ    Gender=Masc|Number=Sing                                grand             -6   conj       0
+,                 PUNCT  _                                                      ,                 -7   punct      0
+</VERS>
+<VERS>
+# Né pour saisir et mordre au sel de toute phrase
+né                VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       naître            -10  _          0
+pour              ADP    _                                                      pour              1    mark       0
+saisir            VERB   VerbForm=Inf                                           saisir            -2   advcl      0
+et                CCONJ  _                                                      et                1    cc         0
+mordre            VERB   VerbForm=Inf                                           mordre            -2   conj       0
+au                ADP    _                                                      au                1    case       0
+sel               NOUN   Gender=Masc|Number=Sing                                sel               -2   obl        0
+de                ADP    _                                                      de                2    case       0
+toute             DET    Gender=Fem|Number=Sing                                 tout              1    det        0
+phrase            NOUN   Gender=Fem|Number=Sing                                 phrase            -3   nmod       0
+</VERS>
+<VERS>
+# Un peu du coeur naïf d'un soleil pénétrant ?
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                3    advmod     0
+peu               ADV    _                                                      peu               -1   fixed      0
+du                DET    Gender=Masc|Number=Sing                                du                1    det        0
+coeur             NOUN   Gender=Masc|Number=Sing                                coeur             -13  obl        0
+naïf              NOUN   Gender=Masc|Number=Sing                                naïf              -1   appos      0
+d'                ADP    _                                                      de                2    case       0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+soleil            NOUN   Gender=Masc|Number=Sing                                soleil            -4   nmod       0
+pénétrant         ADJ    Gender=Masc|Number=Sing                                pénétrant         -1   amod       0
+?                 PUNCT  _                                                      ?                 -29  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# N'es-tu pas là, si fort et si plein de toi-même,
+n'                ADV    Polarity=Neg                                           ne                15   advmod     0
+es-tu             PRON   _                                                      es-tu             14   obl:mod    0
+pas               ADV    Polarity=Neg                                           pas               1    advmod     0
+là                ADV    _                                                      là                -2   advmod     0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+si                ADV    _                                                      si                1    advmod     0
+fort              ADV    _                                                      fort              3    advmod     0
+et                CCONJ  _                                                      et                1    cc         0
+si                ADV    _                                                      si                -2   conj       0
+plein             ADV    _                                                      plein             2    advmod     0
+de                ADP    _                                                      de                -1   fixed      0
+toi-même          NOUN   Gender=Masc|Number=Sing                                toi-même          4    obl:mod    0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+</VERS>
+<VERS>
+# Si royalement jeune et constellé d'ardeurs,
+si                ADV    _                                                      si                1    advmod     0
+royalement        ADV    _                                                      royalement        1    advmod     0
+jeune             ADJ    Gender=Masc|Number=Sing                                jeune             0    root       0
+et                CCONJ  _                                                      et                1    cc         0
+constellé         ADJ    Gender=Masc|Number=Sing                                constellé         -2   conj       0
+d'                ADP    _                                                      de                1    case       0
+ardeurs           NOUN   Gender=Fem|Number=Plur                                 ardeur            -4   obl:mod    0
+,                 PUNCT  _                                                      ,                 -5   punct      0
+</VERS>
+<VERS>
+# Oui tellement chéri par l'immensité même
+oui               AUX    Gender=Masc|Number=Sing                                oui               2    aux:pass   0
+tellement         ADV    _                                                      tellement         1    advmod     0
+chéri             VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       chérir            -8   advcl      0
+par               ADP    _                                                      par               2    case       0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+immensité         NOUN   Gender=Fem|Number=Sing                                 immensité         -3   obl:agent  0
+même              ADV    _                                                      même              5    mark       0
+</VERS>
+<VERS>
+# Qu'un enfant y boirait ses futures splendeurs ?
+qu'               SCONJ  _                                                      que               -1   fixed      0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+enfant            NOUN   Gender=Masc|Number=Sing                                enfant            2    nsubj      0
+y                 ADV    _                                                      y                 1    advmod     0
+boirait           VERB   Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  boir              -9   advcl      0
+ses               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               2    det        0
+futures           ADJ    Gender=Masc|Number=Plur                                future            1    amod       0
+splendeurs        NOUN   Gender=Masc|Number=Plur                                splendeur         -3   obj        0
+?                 PUNCT  _                                                      ?                 -21  punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Le monde est vieux, bien sûr, mais l'aube n'a point d'âge.
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+monde             NOUN   Gender=Masc|Number=Sing                                monde             2    nsubj      0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              1    cop        0
+vieux             ADJ    Gender=Masc|Number=Sing                                vieux             0    root       0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+bien              ADV    _                                                      bien              1    advmod     0
+sûr               ADJ    Gender=Masc|Number=Sing                                sûr               -3   amod       0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+mais              CCONJ  _                                                      mais              4    cc         0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+aube              NOUN   Gender=Fem|Number=Sing                                 aube              2    nsubj      0
+n'                ADV    Polarity=Neg                                           ne                1    advmod     0
+a                 VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  avoir             -9   conj       0
+point             NOUN   Gender=Masc|Number=Sing                                point             -1   obj        0
+d'                ADP    _                                                      de                1    case       0
+âge               NOUN   Gender=Masc|Number=Sing                                âge               -2   nmod       0
+.                 PUNCT  _                                                      .                 -13  punct      1
+</VERS>
+<VERS>
+# Les jours sonnent, vêtus comme d'amples secrets.
+Les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      Le                1    det        0
+jours             NOUN   Gender=Masc|Number=Plur                                jour              0    root       0
+sonnent           AUX    Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  sonner            -1   _          0
+,                 PUNCT  _                                                      ,                 5    punct      0
+vêtus             ADV    _                                                      vêtus             4    advmod     0
+comme             ADP    _                                                      comme             3    case       0
+d'                DET    Definite=Ind|Gender=Fem|Number=Plur|PronType=Art       un                2    det        0
+amples            DET    Gender=Fem|Number=Plur                                 ample             1    det        0
+secrets           NOUN   Gender=Masc|Number=Plur                                secret            -7   _          0
+.                 PUNCT  _                                                      .                 -8   _          1
+</VERS>
+<VERS>
+# Au-delà de tes mains, l'heure en vagabondage
+Au-delà           ADV    _                                                      Au-delà           3    case       0
+de                ADP    _                                                      de                -1   fixed      0
+tes               DET    Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs           son               1    det        0
+mains             NOUN   Gender=Fem|Number=Plur                                 main              0    root       0
+,                 PUNCT  _                                                      ,                 -1   _          0
+l'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+heure             NOUN   Gender=Fem|Number=Sing                                 heure             -3   _          0
+en                ADP    _                                                      en                1    case       0
+vagabondage       NOUN   Gender=Masc|Number=Sing                                vagabondage       -2   nmod       0
+</VERS>
+<VERS>
+# Imprime à chaque élan on ne sait quoi de frais.
+imprime           ADJ    Gender=Fem|Number=Sing                                 imprime           -1   amod       0
+à                 ADP    _                                                      à                 2    case       0
+chaque            DET    Gender=Masc|Number=Sing                                chaque            1    det        0
+élan              NOUN   Gender=Masc|Number=Sing                                élan              -6   nmod       0
+on                PRON   Gender=Masc|Number=Sing|Person=3                       on                2    nsubj      0
+ne                ADV    Polarity=Neg                                           ne                1    advmod     0
+sait              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  savoir            -9   acl:relcl  0
+quoi              PRON   _                                                      quoi              -13  _          0
+de                DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+frais             NOUN   Gender=Masc|Number=Plur                                frais             -15  _          0
+.                 PUNCT  _                                                      .                 -16  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Le beau ciel presque nu teint les eaux rayonnantes.
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                2    det        0
+beau              ADJ    Gender=Masc|Number=Sing                                beau              1    amod       0
+ciel              NOUN   Gender=Masc|Number=Sing                                ciel              0    root       0
+presque           ADV    _                                                      presque           1    advmod     0
+nu                ADJ    Gender=Masc|Number=Sing                                nu                -2   amod       0
+teint             DET    _                                                      teint             2    case       0
+les               DET    Definite=Def|Gender=Fem|Number=Plur|PronType=Art       le                1    det        0
+eaux              NOUN   Gender=Fem|Number=Plur                                 eau               -5   nmod       0
+rayonnantes       ADJ    Gender=Fem|Number=Plur                                 rayonnant         -1   amod       0
+.                 PUNCT  _                                                      .                 -7   punct      1
+</VERS>
+<VERS>
+# La mer adamantine a des jeux orgueilleux.
+La                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       Le                1    det        0
+mer               NOUN   Gender=Fem|Number=Sing                                 mer               2    nsubj      0
+adamantine        AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  adamantiner       1    aux        0
+a                 VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  avoir             0    root       0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+jeux              NOUN   Gender=Masc|Number=Plur                                jeu               -2   obj        0
+orgueilleux       ADJ    Gender=Masc|Number=Plur                                orgueilleux       -1   amod       0
+.                 PUNCT  _                                                      .                 -4   punct      1
+</VERS>
+<VERS>
+# Du fond de leurs clameur, soûles, tourbillonnantes,
+Du                DET    Gender=Masc|Number=Sing                                Du                1    det        0
+fond              NOUN   Gender=Masc|Number=Sing                                fond              0    root       0
+de                ADP    _                                                      de                2    case       0
+leurs             DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+clameur           NOUN   Gender=Masc|Number=Sing                                clameur           -3   nmod       0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+soûles            ADJ    Gender=Fem|Number=Plur                                 soûl              -5   amod       0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+tourbillonnantes  INTJ   _                                                      tourbillonnantes  -7   appos      0
+,                 PUNCT  _                                                      ,                 -8   punct      0
+</VERS>
+<VERS>
+# Les vagues à l'envi brassent le merveilleux.
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+vagues            NOUN   Gender=Masc|Number=Plur                                vague             -10  _          0
+à                 ADP    _                                                      à                 2    case       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+envi              NOUN   Gender=Masc|Number=Sing                                envi              -3   nmod       0
+brassent          AUX    Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin  brasser           -14  _          0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+merveilleux       ADJ    Gender=Masc|Number=Sing                                merveilleux       -16  _          0
+.                 PUNCT  _                                                      .                 -17  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Vois trembler le matin à la musique neuve
+vois              VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       voettre           13   acl        0
+trembler          ADP    _                                                      trembler          2    case       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+matin             NOUN   Gender=Masc|Number=Sing                                matin             -3   obl        0
+à                 ADP    _                                                      à                 2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+musique           NOUN   Gender=Fem|Number=Sing                                 musique           -6   obl        0
+neuve             ADJ    Gender=Fem|Number=Sing                                 neuf              -1   amod       0
+</VERS>
+<VERS>
+# Et vers l'azur égal sangloter les embruns,
+et                CCONJ  _                                                      et                3    cc         0
+vers              ADP    _                                                      vers              2    case       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+azur              NOUN   Gender=Masc|Number=Sing                                azur              -5   conj       0
+égal              ADJ    Gender=Masc|Number=Sing                                égal              -1   amod       0
+sangloter         NOUN   Gender=Masc|Number=Sing                                sangloter         11   nsubj      0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+embruns           NOUN   Gender=Masc|Number=Plur                                embrun            -2   nmod       0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+</VERS>
+<VERS>
+# Cueille le songe auquel ton infini s'abreuve
+cueille           SCONJ  _                                                      cueille           2    mark       0
+le                PRON   Gender=Masc|Number=Sing|Person=3|PronType=Prs          le                1    obj        0
+songe             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  songer            -6   advcl      0
+auquel            DET    Gender=Masc|Number=Sing                                auquel            1    det        0
+ton               NOUN   Gender=Masc|Number=Sing                                ton               -2   nsubj      0
+infini            ADJ    Gender=Masc|Number=Sing                                infini            -1   amod       0
+s'                PRON   Person=3|PronType=Prs                                  se                1    expl       0
+abreuve           VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  abreuver          0    root       0
+</VERS>
+<VERS>
+# Quand, délice d'écume, il jaillit des flots bruns.
+quand             SCONJ  _                                                      quand             7    mark       0
+,                 PUNCT  _                                                      ,                 1    punct      0
+délice            NOUN   Gender=Masc|Number=Sing                                délice            5    obl:mod    0
+d'                ADP    _                                                      de                1    case       0
+écume             NOUN   Gender=Masc|Number=Sing                                écume             -2   nmod       0
+,                 PUNCT  _                                                      ,                 -3   punct      0
+il                PRON   Gender=Masc|Number=Sing|Person=3|PronType=Prs          il                1    nsubj      0
+jaillit           VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  jaillir           -8   advcl      0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+flots             NOUN   Gender=Masc|Number=Plur                                flot              -2   obj        0
+bruns             ADJ    Gender=Masc|Number=Plur                                brun              -1   amod       0
+.                 PUNCT  _                                                      .                 -12  punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Oh ! combien il te faut de soifs à ta mesure,
+oh                INTJ   _                                                      oh                0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+combien           ADV    _                                                      combien           3    advmod     0
+il                PRON   Gender=Masc|Number=Sing|Person=3|PronType=Prs          il                2    nsubj      0
+te                PRON   Number=Sing|Person=2|PronType=Prs                      lui               1    iobj       0
+faut              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  falloir           0    root       0
+de                ADP    _                                                      de                1    case       0
+soifs             NOUN   Gender=Masc|Number=Plur                                soif              -2   obl:arg    0
+à                 ADP    _                                                      à                 1    case       0
+ta                SYM    _                                                      ta                -2   nmod       0
+mesure            NOUN   Gender=Fem|Number=Sing                                 mesure            -1   compound   0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Combien... combien tu veux, libre d'aucun soutien,
+combien           ADV    _                                                      combien           -7   _          0
+..                PUNCT  _                                                      ..                -8   _          0
+.                 PUNCT  _                                                      .                 -9   _          1
+combien           ADV    _                                                      combien           2    advmod     0
+tu                PRON   Number=Sing|Person=2|PronType=Prs                      il                1    nsubj      0
+veux              VERB   Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin  vouloir           0    root       0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+libre             ADJ    Gender=Masc|Number=Sing                                libre             -2   _          0
+d'                ADP    _                                                      de                2    case       0
+aucun             DET    Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg      aucun             1    det        0
+soutien           NOUN   Gender=Masc|Number=Sing                                soutien           -3   obl:arg    0
+,                 PUNCT  _                                                      ,                 -4   punct      0
+</VERS>
+<VERS>
+# Ici toujours, malgré la haine et la brisure,
+ici               ADV    _                                                      ici               -7   _          0
+toujours          ADV    _                                                      toujours          -1   advmod     0
+,                 PUNCT  _                                                      ,                 -9   _          0
+malgré            ADP    _                                                      malgré            2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+haine             NOUN   Gender=Fem|Number=Sing                                 haine             -12  _          0
+et                CCONJ  _                                                      et                2    cc         0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+brisure           NOUN   Gender=Fem|Number=Sing                                 brisure           -3   conj       0
+,                 PUNCT  _                                                      ,                 -16  _          0
+</VERS>
+<VERS>
+# Déchirer l'habit sale où le vil te retient !
+déchirer          INTJ   _                                                      déchirer          -17  _          0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+habit             NOUN   Gender=Masc|Number=Sing                                habit             -19  _          0
+sale              ADJ    Gender=Masc|Number=Sing                                sale              -1   amod       0
+où                PRON   PronType=Rel                                           où                4    obl        0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+vil               NOUN   Gender=Masc|Number=Sing                                vil               2    nsubj      0
+te                PRON   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  lui               1    iobj       0
+retient           VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  retenir           -6   acl:relcl  0
+!                 PUNCT  _                                                      !                 -26  _          1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Sur les lames, regarde ! un vol blanc de mouettes
+sur               ADP    _                                                      sur               2    case       0
+les               DET    Definite=Def|Gender=Fem|Number=Plur|PronType=Art       le                1    det        0
+lames             NOUN   Gender=Fem|Number=Plur                                 lame              2    obl:mod    0
+,                 PUNCT  _                                                      ,                 1    punct      0
+regarde           VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  regarder          0    root       0
+!                 PUNCT  _                                                      !                 -1   punct      1
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+vol               NOUN   Gender=Masc|Number=Sing                                vol               4    nsubj      0
+blanc             ADJ    Gender=Masc|Number=Sing                                blanc             -1   amod       0
+de                ADP    _                                                      de                1    case       0
+mouettes          NOUN   Gender=Fem|Number=Plur                                 mouette           -3   nmod       0
+</VERS>
+<VERS>
+# Embrasse l'or liquide au souffle bondissant ;
+embrasse          VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  embrasser         0    root       0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+or                NOUN   Gender=Masc|Number=Sing                                or                -2   obj        0
+liquide           ADJ    Gender=Masc|Number=Sing                                liquide           -1   amod       0
+au                ADP    _                                                      au                1    case       0
+souffle           NOUN   Gender=Masc|Number=Sing                                souffle           -5   obl        0
+bondissant        ADV    _                                                      bondissant        -1   advmod     0
+;                 PUNCT  _                                                      ;                 -7   punct      1
+</VERS>
+<VERS>
+# Car il n'est Miel dont maintes fois tu ne souhaites
+car               CCONJ  _                                                      car               4    cc         0
+il                PRON   Gender=Masc|Number=Sing|Person=3|PronType=Prs          il                3    nsubj      0
+n'                ADV    Polarity=Neg                                           ne                2    advmod     0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              1    cop        0
+miel              NOUN   Gender=Masc|Number=Sing                                miel              0    root       0
+dont              PRON   PronType=Rel                                           dont              2    nmod       0
+maintes           ADJ    Gender=Fem|Number=Plur                                 maint             1    amod       0
+fois              NOUN   Gender=Fem|Number=Plur                                 fois              3    case       0
+tu                PRON   Number=Sing|Person=2|PronType=Prs                      il                2    nsubj      0
+ne                ADV    Polarity=Neg                                           ne                1    advmod     0
+souhaites         PRON   Gender=Fem|Number=Plur                                 souhait           -6   nmod       0
+</VERS>
+<VERS>
+# Sentir à pleins poumons le goût bouleversant.
+sentir            VERB   VerbForm=Inf                                           sentir            -1   acl        0
+à                 ADP    _                                                      à                 2    case       0
+pleins            ADJ    Gender=Masc|Number=Plur                                plein             1    amod       0
+poumons           NOUN   Gender=Masc|Number=Plur                                poumon            -3   obl        0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+goût              NOUN   Gender=Masc|Number=Sing                                goût              -5   obj        0
+bouleversant      ADJ    Gender=Masc|Number=Sing                                bouleversant      -1   amod       0
+.                 PUNCT  _                                                      .                 -14  punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Plus loin, dans la ferveur capiteuse et la gloire,
+plus              ADV    _                                                      plus              1    advmod     0
+loin              ADV    _                                                      loin              29   advmod     0
+,                 PUNCT  _                                                      ,                 -1   punct      0
+dans              ADP    _                                                      dans              2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+ferveur           NOUN   Gender=Fem|Number=Sing                                 ferveur           25   obl:mod    0
+capiteuse         ADJ    Gender=Fem|Number=Sing                                 capiteux          -1   amod       0
+et                CCONJ  _                                                      et                2    cc         0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+gloire            NOUN   Gender=Fem|Number=Sing                                 gloire            -4   conj       0
+,                 PUNCT  _                                                      ,                 -5   punct      0
+</VERS>
+<VERS>
+# Le vent large médite au seuil de l'éternel,
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+vent              NOUN   Gender=Masc|Number=Sing                                vent              18   nsubj      0
+large             ADJ    Gender=Masc|Number=Sing                                large             -1   amod       0
+médite            NOUN   Gender=Masc|Number=Sing                                médite            -2   appos      0
+au                ADJ    Gender=Masc|Number=Sing                                au                -1   amod       0
+seuil             NOUN   Gender=Masc|Number=Sing                                seuil             -4   appos      0
+de                ADP    _                                                      de                2    case       0
+l'                DET    Definite=Def|Number=Sing|PronType=Art                  le                1    det        0
+éternel           NOUN   Gender=Masc|Number=Sing                                éternel           -3   nmod       0
+,                 PUNCT  _                                                      ,                 3    punct      0
+</VERS>
+<VERS>
+# Et la lumière aiguë aux feux de sa mémoire
+et                CCONJ  _                                                      et                2    cc         0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+lumière           NOUN   Gender=Fem|Number=Sing                                 lumière           -11  conj       0
+aiguë             ADJ    Gender=Fem|Number=Sing                                 aigu              -1   amod       0
+aux               ADJ    Gender=Masc|Number=Plur                                al                -2   amod       0
+feux              NOUN   Gender=Masc|Number=Plur                                feu               -3   appos      0
+de                ADP    _                                                      de                2    case       0
+sa                DET    Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs           son               1    det        0
+mémoire           NOUN   Gender=Fem|Number=Sing                                 mémoire           -6   nmod       0
+</VERS>
+<VERS>
+# Rend le monde à son verbe immense et fraternel.
+rend              VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  rendre            0    root       0
+le                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+monde             NOUN   Gender=Masc|Number=Sing                                monde             -2   nsubj      0
+à                 ADP    _                                                      à                 2    case       0
+son               DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          son               1    det        0
+verbe             NOUN   Gender=Masc|Number=Sing                                verbe             -5   obl        0
+immense           ADJ    Gender=Masc|Number=Sing                                immense           -1   amod       0
+et                CCONJ  _                                                      et                1    cc         0
+fraternel         ADJ    Gender=Masc|Number=Sing                                fraternel         -2   conj       0
+.                 PUNCT  _                                                      .                 -9   punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# O rien ne dit assez l'éclat de ta naissance!
+o                 PUNCT  _                                                      o                 3    punct      0
+rien              PRON   Number=Sing                                            rien              2    nsubj      0
+ne                ADV    Polarity=Neg                                           ne                1    advmod     0
+dit               VERB   Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part       dire              0    root       0
+assez             ADV    _                                                      assez             2    advmod     0
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+éclat             NOUN   Gender=Masc|Number=Sing                                éclat             -3   obj        0
+de                ADP    _                                                      de                1    case       0
+ta                SYM    _                                                      ta                -2   nmod       0
+naissance         NOUN   Gender=Fem|Number=Sing                                 naissance         -1   compound   0
+!                 PUNCT  _                                                      !                 -7   punct      1
+</VERS>
+<VERS>
+# L'onde croule sans fin de chavirants échos.
+L'                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       Le                1    det        0
+onde              NOUN   Gender=Fem|Number=Sing                                 onde              0    root       0
+croule            ADJ    Gender=Fem|Number=Sing                                 croul             -1   amod       0
+sans              ADP    _                                                      sans              1    case       0
+fin               NOUN   Gender=Fem|Number=Sing                                 fin               -3   nmod       0
+de                ADP    _                                                      de                1    case       0
+chavirants        NOUN   Gender=Masc|Number=Plur                                chavirant         -2   nmod       0
+échos             PRON   Gender=Masc|Number=Plur                                écho              -6   nmod       0
+.                 PUNCT  _                                                      .                 -7   punct      1
+</VERS>
+<VERS>
+# En toi monte et s'agite une claire puissance
+En                ADP    _                                                      En                1    case       0
+toi               PRON   Number=Sing|Person=2                                   soi               1    obl:mod    0
+monte             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  monter            0    root       0
+et                CCONJ  _                                                      et                2    cc         0
+s'                PRON   Person=3|PronType=Prs                                  se                1    expl:pass  0
+agite             VERB   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  agiter            -3   conj       0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                2    det        0
+claire            ADJ    Gender=Fem|Number=Sing                                 clair             1    amod       0
+puissance         NOUN   Gender=Fem|Number=Sing                                 puissance         -3   obj        0
+</VERS>
+<VERS>
+# Mêlée à la chaleur des roulis amicaux.
+mêlée             VERB   Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part        mêler             -1   acl        0
+à                 ADP    _                                                      à                 2    case       0
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+chaleur           NOUN   Gender=Fem|Number=Sing                                 chaleur           -3   obl        0
+des               DET    Definite=Ind|Gender=Masc|Number=Plur|PronType=Art      un                1    det        0
+roulis            NOUN   Gender=Masc|Number=Plur                                roulis            -12  nsubj      0
+amicaux           ADJ    Gender=Masc|Number=Plur                                amical            -1   amod       0
+.                 PUNCT  _                                                      .                 -14  punct      1
+</VERS>
+<VERS>
+#  
+</VERS>
+<VERS>
+# Hymnes, fécondité, parfums d'avant déluge,
+hymnes            INTJ   _                                                      hymnes            0    root       0
+,                 PUNCT  _                                                      ,                 1    punct      0
+fécondité         NOUN   Gender=Fem|Number=Sing                                 fécondité         -2   conj       0
+,                 PUNCT  _                                                      ,                 1    punct      0
+parfums           NOUN   Gender=Masc|Number=Plur                                parfum            -4   conj       0
+d'                ADP    _                                                      de                2    case       0
+avant             ADP    _                                                      avant             1    case       0
+déluge            NOUN   Gender=Masc|Number=Sing                                déluge            -3   nmod       0
+,                 PUNCT  _                                                      ,                 2    punct      0
+</VERS>
+<VERS>
+# La mer lave les rocs ; l'air est délicieux.
+la                DET    Definite=Def|Gender=Fem|Number=Sing|PronType=Art       le                1    det        0
+mer               NOUN   Gender=Fem|Number=Sing                                 mer               -10  conj       0
+lave              NOUN   Gender=Fem|Number=Sing                                 lave              -1   appos      0
+les               DET    Definite=Def|Gender=Masc|Number=Plur|PronType=Art      le                1    det        0
+rocs              NOUN   Gender=Masc|Number=Plur                                roc               -3   appos      0
+;                 PUNCT  _                                                      ;                 -14  punct      1
+l'                DET    Definite=Def|Gender=Masc|Number=Sing|PronType=Art      le                1    det        0
+air               NOUN   Gender=Masc|Number=Sing                                air               2    nsubj      0
+est               AUX    Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin  être              1    cop        0
+délicieux         ADJ    Gender=Masc|Number=Sing                                délicieux         0    root       0
+.                 PUNCT  _                                                      .                 -1   punct      1
+</VERS>
+<VERS>
+# Va d'une seule haleine y puiser un refuge,
+Va                VERB   Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin  aller             0    root       0
+d'                ADP    _                                                      de                3    case       0
+une               DET    Definite=Ind|Gender=Fem|Number=Sing|PronType=Art       un                2    det        0
+seule             ADJ    Gender=Fem|Number=Sing                                 seul              1    amod       0
+haleine           NOUN   Gender=Fem|Number=Sing                                 haleine           -4   obl:arg    0
+y                 ADV    _                                                      y                 3    case       0
+puiser            SCONJ  _                                                      puiser            -1   fixed      0
+un                DET    Definite=Ind|Gender=Masc|Number=Sing|PronType=Art      un                1    det        0
+refuge            NOUN   Gender=Masc|Number=Sing                                refuge            -8   obl        0
+,                 PUNCT  _                                                      ,                 -9   punct      0
+</VERS>
+<VERS>
+# Plein du sang de ton coeur ! plein du cri de tes yeux ! 
+plein             ADP    _                                                      plein             2    case       0
+du                DET    Gender=Masc|Number=Sing                                du                1    det        0
+sang              NOUN   Gender=Masc|Number=Sing                                sang              -12  obl        0
+de                ADP    _                                                      de                2    case       0
+ton               DET    Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs          son               1    det        0
+coeur             NOUN   Gender=Masc|Number=Sing                                coeur             -3   nmod       0
+!                 PUNCT  _                                                      !                 -16  punct      1
+plein             ADP    _                                                      plein             2    case       0
+du                DET    Gender=Masc|Number=Sing                                du                1    det        0
+cri               NOUN   Gender=Masc|Number=Sing                                cri               0    root       0
+de                ADP    _                                                      de                2    case       0
+tes               DET    Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs          son               1    det        0
+yeux              NOUN   Gender=Masc|Number=Plur                                oeil              -3   nmod       0
+!                 PUNCT  _                                                      !                 -4   punct      1
+</VERS>
+</STROPHE>
+</CORPS>
+</POEME>
+</RECUEIL>
