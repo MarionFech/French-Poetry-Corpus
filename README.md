@@ -1,15 +1,16 @@
-## French-Poetry-Corpus
+# French-Poetry-Corpus
 
 ## Aim
 
 #### This corpus is a French corpus of poetry. It is presented in various forms. 
 
 ## The files
-#### `French_poetry_corpus.json` the corpus as a json file (and `French_Poetry_corpus_toolbox_json.py`a toolbox to explore it). 
+#### `French_poetry_corpus.json` the corpus as a json file 
+#### `French_Poetry_corpus_toolbox_json.py`a toolbox to explore the json file 
 #### `FPC_verse_xml` the corpus is available with xml presentation separated by verse and stanzas (strophes) where each file is a collection written by an author including multiple poems
 
-#### Finally, a postagger was applied (Macaon, Nasr et al., 2011) and it is available in a conllu format (`FPC_conllu`) where each file is a collection written by an author including multiple poems  
-#### a xml format with reminder of each line that is analyzed (`FPC_xml_with_pos`) also where each file is a collection written by an author including multiple poems
+#### `FPC_conllu` a postagger was applied (Macaon, Nasr et al., 2011) and it is available in a conllu format where each file is a collection written by an author including multiple poems  
+#### `FPC_xml_with_pos` a xml format with reminder of each line that is analyzed also where each file is a collection written by an author including multiple poems
 #### `lexicon_dictionnary_with_Lexique3.xlsx` is an excel file with all the corpus lexicon with descriptive text features of the FPC and comparisons with Lexique 3(New et al., 2005; 2001).
 
 #### All the information are available in an article:
