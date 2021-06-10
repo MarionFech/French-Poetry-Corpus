@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# author: Marion Fechino <marion.fechino@univ-amu.fr>
 
 """
-Phd project on French Poetry Corpus (FPC)
-by Marion Fechino <marion.fechino@univ-amu.fr>
+French Poetry Corpus (FPC)
+
 """
 
 import json
